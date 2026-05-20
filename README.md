@@ -17,6 +17,32 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 ---
 
+## Time estimate summary
+
+These are rough “cheating but still letting quest scripts fire” estimates. They assume `tgm`, boosted skills, gold/lockpicks/carry weight, fast travel, and no major Bethesda quest-state nonsense.
+
+| Phase | Estimate |
+|---|---:|
+| Phase 0 — Fresh save bootstrap | 15–30 min |
+| Phase 1 — Main quest / beat the game | 5–8 hr |
+| Phase 2 — Companions / werewolf cleanup | 3–5 hr |
+| Phase 3 — College of Winterhold | 2–4 hr |
+| Phase 4 — Thieves Guild | 6–10 hr |
+| Phase 5 — Civil War | 3–5 hr |
+| Phase 6 — Daedric artifacts | 8–14 hr |
+| Phase 7 — Dawnguard | 6–10 hr |
+| Phase 8 — Hearthfire | 2–4 hr |
+| Phase 9 — Dragonborn | 6–10 hr |
+| Phase 10 — Misc cleanup | 8–15 hr |
+
+Expected total: **49–85 hours**.
+
+Realistic “I know Skyrim, I am shamelessly cheating, but not nuking quest stages” total: **55–70 hours**.
+
+The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, **Dragonborn**, and **misc cleanup**. Those are where quest routing, bugs, radiant-job luck, and collectible cleanup either behave or decide to be Bethesda.
+
+---
+
 ## Missing achievements checklist
 
 ### Base / Main Quest
@@ -166,7 +192,7 @@ psb
 
 ---
 
-## Phase 0 — Fresh save bootstrap
+## Phase 0 — Fresh save bootstrap — est. 15–30 min
 
 Goal: create a clean no-mod save, escape Helgen, then turn the character into a stealth archer crime scene.
 
@@ -219,7 +245,7 @@ You already have **Skill Master**, but you still need **Master** at level 50. If
 
 # Recommended route
 
-## Phase 1 — Main quest / beat the game
+## Phase 1 — Main quest / beat the game — est. 5–8 hr
 
 Missing:
 
@@ -255,7 +281,7 @@ player.forceav dragonsouls 20
 
 `player.forceav dragonsouls 20` gives souls for unlocking shouts. It does not learn word walls for you. Shout achievements still want words learned through word walls / quest rewards unless you are testing risky commands on a throwaway save.
 
-## Phase 2 — Companions / werewolf cleanup
+## Phase 2 — Companions / werewolf cleanup — est. 3–5 hr
 
 Missing:
 
@@ -284,7 +310,7 @@ Cheat tactics:
 
 Do this before becoming a Vampire Lord unless you are branching saves.
 
-## Phase 3 — College of Winterhold
+## Phase 3 — College of Winterhold — est. 2–4 hr
 
 Missing:
 
@@ -302,7 +328,7 @@ Plan:
 3. Use `tgm` and high combat skills.
 4. Avoid quest-stage skipping. The College line has scenes and NPC movement that can break if you get cute.
 
-## Phase 4 — Thieves Guild
+## Phase 4 — Thieves Guild — est. 6–10 hr
 
 Missing:
 
@@ -367,7 +393,7 @@ For pockets:
 - Pick low-value junk from sleeping / isolated NPCs.
 - Riften is ideal because everyone there is already morally repossessed.
 
-## Phase 5 — Civil War
+## Phase 5 — Civil War — est. 3–5 hr
 
 Missing:
 
@@ -384,7 +410,7 @@ Plan:
 
 Do this after the main quest if you want fewer weird interactions.
 
-## Phase 6 — Daedric artifacts
+## Phase 6 — Daedric artifacts — est. 8–14 hr
 
 Missing:
 
@@ -433,7 +459,7 @@ movetoqt <QuestID>
 
 Use a quest guide for start locations if needed, but do the actual completions in-game. This is one of the easiest achievement sets to poison with the wrong console shortcut.
 
-## Phase 7 — Dawnguard
+## Phase 7 — Dawnguard — est. 6–10 hr
 
 Missing:
 
@@ -517,7 +543,7 @@ player.placeatme <LegendaryDragonBaseID> 1
 
 Save first. Spawning dragons can get stupid fast.
 
-## Phase 8 — Hearthfire
+## Phase 8 — Hearthfire — est. 2–4 hr
 
 Missing:
 
@@ -584,7 +610,7 @@ Fast setup:
 
 Fresh-save warning: your account already has Dark Brotherhood achievements, but this character has not done **Innocence Lost** unless you do it again.
 
-## Phase 9 — Dragonborn
+## Phase 9 — Dragonborn — est. 6–10 hr
 
 Missing:
 
@@ -670,7 +696,7 @@ player.setav speedmult 250
 
 Save/reload after changing speed if movement does not update. Walk the island and touch map markers.
 
-## Phase 10 — Misc cleanup
+## Phase 10 — Misc cleanup — est. 8–15 hr
 
 ### Sideways
 
