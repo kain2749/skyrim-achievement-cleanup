@@ -17,6 +17,56 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 ---
 
+# Save strategy
+
+Make hard saves named mentally like this:
+
+- `00_clean_no_mods_outside_helgen`
+- `01_after_character_cheat_bootstrap`
+- `02_before_main_quest_push`
+- `03_before_civil_war_side_choice`
+- `04_before_daedric_artifacts`
+- `05_before_werewolf_vampire_branch`
+- `06_before_dawnguard_choice`
+- `07_before_dragonborn_black_books`
+- `08_before_console_stage_abuse`
+
+Do not trust autosaves. Bethesda autosaves are betrayal with timestamps.
+
+---
+
+# Practical shortest path from a new save
+
+If doing this with no moral restraint:
+
+1. Start fresh, no mods.
+2. Escape Helgen and make a clean hard save.
+3. Dump skills/gold/lockpicks/carry weight.
+4. Console-level to 50 immediately for **Master**.
+5. Push main quest through **Dragonslayer**.
+6. Finish Companions and master werewolf before curing.
+7. Finish College.
+8. Finish Thieves Guild and restore the guild.
+9. Run Civil War.
+10. Do Daedric artifacts carefully for **Oblivion Walker**.
+11. Run Dawnguard, master Vampire Lord, get Soul Tear/Auriel/Legend.
+12. Build Hearthfire houses and adopt.
+13. Run Dragonborn.
+14. Clean up misc grind: Reader, Delver, Explorer, Standing Stones, Thief, Master Criminal.
+
+The big pain achievements are:
+
+- **Oblivion Walker** — missable choices.
+- **One with the Shadows** — radiant-job slog.
+- **Reader** — boring checklist.
+- **Delver / Explorer** — map grind.
+- **Werewolf Mastered / Vampire Mastered** — form-specific feeding/killing.
+- **Legend** — high level requirement unless you cheat hard.
+
+Everything else is mostly `tgm` and spite.
+
+---
+
 ## Time estimate summary
 
 These are rough “cheating but still letting quest scripts fire” estimates. They assume `tgm`, boosted skills, gold/lockpicks/carry weight, fast travel, and no major Bethesda quest-state nonsense.
@@ -881,56 +931,6 @@ player.teachword <WordID>
 ```
 
 These can pollute your spell/shout list and may not trigger achievements cleanly. Use a throwaway save if testing.
-
----
-
-# Save strategy
-
-Make hard saves named mentally like this:
-
-- `00_clean_no_mods_outside_helgen`
-- `01_after_character_cheat_bootstrap`
-- `02_before_main_quest_push`
-- `03_before_civil_war_side_choice`
-- `04_before_daedric_artifacts`
-- `05_before_werewolf_vampire_branch`
-- `06_before_dawnguard_choice`
-- `07_before_dragonborn_black_books`
-- `08_before_console_stage_abuse`
-
-Do not trust autosaves. Bethesda autosaves are betrayal with timestamps.
-
----
-
-# Practical shortest path from a new save
-
-If doing this with no moral restraint:
-
-1. Start fresh, no mods.
-2. Escape Helgen and make a clean hard save.
-3. Dump skills/gold/lockpicks/carry weight.
-4. Console-level to 50 immediately for **Master**.
-5. Push main quest through **Dragonslayer**.
-6. Finish Companions and master werewolf before curing.
-7. Finish College.
-8. Finish Thieves Guild and restore the guild.
-9. Run Civil War.
-10. Do Daedric artifacts carefully for **Oblivion Walker**.
-11. Run Dawnguard, master Vampire Lord, get Soul Tear/Auriel/Legend.
-12. Build Hearthfire houses and adopt.
-13. Run Dragonborn.
-14. Clean up misc grind: Reader, Delver, Explorer, Standing Stones, Thief, Master Criminal.
-
-The big pain achievements are:
-
-- **Oblivion Walker** — missable choices.
-- **One with the Shadows** — radiant-job slog.
-- **Reader** — boring checklist.
-- **Delver / Explorer** — map grind.
-- **Werewolf Mastered / Vampire Mastered** — form-specific feeding/killing.
-- **Legend** — high level requirement unless you cheat hard.
-
-Everything else is mostly `tgm` and spite.
 
 ---
 
