@@ -153,7 +153,7 @@ The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, *
 
 ### Base / Level
 
-- [ ] **Master** — Reach Level 50
+- [x] **Master** — Reach Level 50
 
 ### Dawnguard
 
@@ -288,8 +288,6 @@ twohanded    = Two-Handed
 ```
 
 Use `advskill`, not `setav`, when you care about level progress. `setav` changes a number. `advskill` behaves more like actual skill XP.
-
-You already have **Skill Master**, but you still need **Master** at level 50. If you want to prep for **Legend**, go to level 78+ eventually because Legendary Dragons normally appear at high level.
 
 ---
 
