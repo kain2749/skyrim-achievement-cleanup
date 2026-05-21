@@ -135,7 +135,7 @@ The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, *
 - [ ] **Standing Stones** — Find 13 Standing Stones
 - [ ] **Wanted** — Escape from jail
 - [ ] **Married** — Get married
-- [ ] **Master Criminal** — Bounty of 1000 gold in all nine holds
+- [x] **Master Criminal** — Bounty of 1000 gold in all nine holds
 - [ ] **Delver** — Clear 50 dungeons
 - [ ] **Explorer** — Discover 100 locations
 - [ ] **Reader** — Read 50 skill books
@@ -822,25 +822,6 @@ player.additem f 10000
 
 Talk to Maramal in Riften if needed, wear the amulet, marry someone eligible.
 
-### Master Criminal
-
-Set bounty to 1000 in all nine holds.
-
-Use a hard save first.
-
-```text
-player.setcrimegold 1000 000267E3
-player.setcrimegold 1000 000267EA
-player.setcrimegold 1000 00029DB0
-player.setcrimegold 1000 00028170
-player.setcrimegold 1000 0002816B
-player.setcrimegold 1000 0002816C
-player.setcrimegold 1000 0002816D
-player.setcrimegold 1000 0002816E
-player.setcrimegold 1000 0002816F
-```
-
-If it does not pop, go to each hold and make the bounty real by being seen, arrested, or paying later. Bethesda, etc.
 
 ### Delver
 
