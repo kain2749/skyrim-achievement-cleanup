@@ -11,7 +11,20 @@ Account state from the input list:
 - Console commands: **allowed**
 - Goal: achievements, not honor
 
-Fresh-save note: some quests/steps you already have achievements for still need to be replayed on this character because they unlock later content. Example: you already have **Unbound**, **Bleak Falls Barrow**, **Dragon Soul**, **Take Up Arms**, **Taking Care of Business**, and early Dark Brotherhood achievements, but a new character still starts from zero world state.
+# Current Run Notes
+
+Small evidence-backed updates from the active Skyrim achievement-cleanup run.
+
+## Gear / state notes
+
+- Acquired **Ancient Shrouded Armor set**.
+  - Treat as the current default stealth armor unless later replaced by crafted or enchanted gear.
+  - Useful for archery, sneak attacks, poison resistance, and muffled movement.
+
+## Achievement progress notes
+
+- `Pockets Picked`: **50 / 50** confirmed from in-game stats screenshot.
+- Remaining work: `Locks Picked` needs to reach **50 / 50**.
 
 Do not use `caqs` unless the save is disposable. It can complete incompatible quest states, skip scripts, break NPC aliases, and generally turn the save into soup.
 
