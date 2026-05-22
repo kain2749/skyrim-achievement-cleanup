@@ -210,7 +210,10 @@ coc <CellName>
 player.additem f 100000
 player.additem a 9999
 player.modav carryweight 10000
+setgs fPickPocketMaxChance 100
 ```
+
+Last console command makes it so the max pickpocket chance is 100%. By default, it is 90%, so if you wanted a perfect run, you would need to save scum. This... well, prevents you from having to save scum.
 
 Meaning:
 
