@@ -31,8 +31,7 @@ Use this save naming scheme:
 Use console saves when you want explicit checkpoint names:
 
 ```text
-save "00_clean_no_mods_outside_helgen"
-save "01_after_character_cheat_bootstrap"
+save "copy_paste_name_here"
 ```
 
 ---
