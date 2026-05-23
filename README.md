@@ -214,8 +214,6 @@ player.modav carryweight 10000
 setgs fPickPocketMaxChance 100
 ```
 
-Last console command makes it so the max pickpocket chance is 100%. By default, it is 90%, so if you wanted a perfect run, you would need to save scum. This... well, prevents you from having to save scum.
-
 Meaning:
 
 - `tgm` = god mode, infinite stamina/magicka/arrows.
@@ -229,6 +227,8 @@ Meaning:
 - `player.additem f 100000` = add 100,000 gold.
 - `player.additem a 9999` = add 9,999 lockpicks.
 - `player.modav carryweight 10000` = stop playing inventory simulator.
+- `setgs fPickPocketMaxChance 100` = max pickpocket chance is 100%. By default, it is 90%, so if you wanted a perfect run, you would need to save scum.
+
 
 Avoid by default:
 
