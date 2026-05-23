@@ -4,27 +4,10 @@ This guide assumes a **fresh no-mod save** made only to clean up the remaining S
 
 Account state from the input list:
 
-- Already unlocked: **18 / 75**
-- Still missing: **57 / 75**
+- Completed: **21 / 75**
+- Remaining: **54 / 75**
 - Platform assumption: **Skyrim Special Edition on PC / Steam**
-- Mods: **off**
-- Console commands: **allowed**
 - Goal: achievements, not honor
-
-# Current Run Notes
-
-Small evidence-backed updates from the active Skyrim achievement-cleanup run.
-
-## Gear / state notes
-
-- Acquired **Ancient Shrouded Armor set**.
-  - Treat as the current default stealth armor unless later replaced by crafted or enchanted gear.
-  - Useful for archery, sneak attacks, poison resistance, and muffled movement.
-
-## Achievement progress notes
-
-- `Pockets Picked`: **50 / 50** confirmed from in-game stats screenshot.
-- Remaining work: `Locks Picked` needs to reach **50 / 50**.
 
 Do not use `caqs` unless the save is disposable. It can complete incompatible quest states, skip scripts, break NPC aliases, and generally turn the save into soup.
 
@@ -34,8 +17,8 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 Make hard saves named mentally like this:
 
-- `00_clean_no_mods_outside_helgen`
-- `01_after_character_cheat_bootstrap`
+- `00_clean_no_mods_outside_helgen` #done
+- `01_after_character_cheat_bootstrap` #done
 - `02_before_main_quest_push`
 - `03_before_civil_war_side_choice`
 - `04_before_daedric_artifacts`
@@ -43,8 +26,6 @@ Make hard saves named mentally like this:
 - `06_before_dawnguard_choice`
 - `07_before_dragonborn_black_books`
 - `08_before_console_stage_abuse`
-
-Do not trust autosaves. Bethesda autosaves are betrayal with timestamps.
 
 ---
 
@@ -934,5 +915,3 @@ These can pollute your spell/shout list and may not trigger achievements cleanly
 - TrueAchievements achievement list: https://www.trueachievements.com/game/Skyrim/achievements
 - TrueAchievements Skyrim SE console command thread: https://www.trueachievements.com/forum/viewthread.aspx?tid=1269333
 - Bethesda support note on Creations/mods and achievements: https://help.bethesda.net/app/answers/detail/a_id/39862/
-
-<!-- ChatGPT write test: contents API write permission verified. -->
