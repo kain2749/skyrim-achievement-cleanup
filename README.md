@@ -384,6 +384,8 @@ Plan:
 
 ```text
 coc Whiterun
+```
+```text
 coc RiftenRaggedFlagon
 ```
 
