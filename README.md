@@ -4,9 +4,9 @@ This guide assumes a **fresh no-mod save** made only to clean up the remaining S
 
 Achievement state:
 
-- Completed: **21 / 75**
-- Remaining: **54 / 75**
-- Confirmed during this cleanup run: **3**
+- Completed: **22 / 75**
+- Remaining: **53 / 75**
+- Confirmed during this cleanup run: **4**
 - Platform assumption: **Skyrim Special Edition on PC / Steam**
 - Goal: achievements, not honor
 
@@ -131,7 +131,7 @@ The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, *
 - [ ] **Sideways** — Complete 10 side quests
 - [ ] **Hero of the People** — Complete 50 Misc Objectives
 - [ ] **Hard Worker** — Chop wood, mine ore, and cook food
-- [ ] **Thief** — Pick 50 locks and 50 pockets
+- [x] **Thief** — Pick 50 locks and 50 pockets
 - [ ] **Snake Tongue** — Successfully persuade, bribe, and intimidate
 - [ ] **Standing Stones** — Find 13 Standing Stones
 - [ ] **Wanted** — Escape from jail
