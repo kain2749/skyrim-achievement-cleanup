@@ -6,6 +6,7 @@ Account state from the input list:
 
 - Completed: **21 / 75**
 - Remaining: **54 / 75**
+- Confirmed during this cleanup run: **3**
 - Platform assumption: **Skyrim Special Edition on PC / Steam**
 - Goal: achievements, not honor
 
