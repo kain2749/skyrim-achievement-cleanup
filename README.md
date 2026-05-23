@@ -2,7 +2,7 @@
 
 This guide assumes a **fresh no-mod save** made only to clean up the remaining Steam achievements.
 
-Account state from the input list:
+Achievement state:
 
 - Completed: **21 / 75**
 - Remaining: **54 / 75**
@@ -16,17 +16,24 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 # Save strategy
 
-Make hard saves named mentally like this:
+Use this save naming scheme:
 
-- `00_clean_no_mods_outside_helgen` #done
-- `01_after_character_cheat_bootstrap` #done
-- `02_before_main_quest_push`
-- `03_before_civil_war_side_choice`
-- `04_before_daedric_artifacts`
-- `05_before_werewolf_vampire_branch`
-- `06_before_dawnguard_choice`
-- `07_before_dragonborn_black_books`
-- `08_before_console_stage_abuse`
+- [x] `00_clean_no_mods_outside_helgen`
+- [x] `01_after_character_cheat_bootstrap`
+- [ ] `02_before_main_quest_push`
+- [ ] `03_before_civil_war_side_choice`
+- [ ] `04_before_daedric_artifacts`
+- [ ] `05_before_werewolf_vampire_branch`
+- [ ] `06_before_dawnguard_choice`
+- [ ] `07_before_dragonborn_black_books`
+- [ ] `08_before_console_stage_abuse`
+
+Use console saves when you want explicit checkpoint names:
+
+```text
+save "00_clean_no_mods_outside_helgen"
+save "01_after_character_cheat_bootstrap"
+```
 
 ---
 
