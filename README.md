@@ -382,6 +382,11 @@ Plan:
 
 ## Phase 4 — Thieves Guild — est. 6–10 hr
 
+```text
+coc Whiterun
+coc RiftenRaggedFlagon
+```
+
 Missing:
 
 - Darkness Returns
