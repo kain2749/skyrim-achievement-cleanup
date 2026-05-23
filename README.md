@@ -31,7 +31,7 @@ Use this save naming scheme:
 Use console saves when you want explicit checkpoint names:
 
 ```text
-save "copy_paste_name_here"
+save copy_paste_name_here
 ```
 
 ---
