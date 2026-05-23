@@ -178,7 +178,7 @@ The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, *
 - [ ] **Auriel's Bow** — Use the special power of Auriel's Bow
 - [ ] **Werewolf Mastered** — Acquire 11 werewolf perks
 - [ ] **Vampire Mastered** — Acquire 11 vampire perks
-- [ ] **A New You** — Change your face
+- [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
 
 ### Hearthfire
