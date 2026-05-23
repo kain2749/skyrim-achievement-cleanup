@@ -87,7 +87,7 @@ The swingy phases are **Thieves Guild**, **Daedric artifacts**, **Dawnguard**, *
 
 ---
 
-## Missing achievements checklist
+## Achievement cleanup checklists
 
 ### Base / Main Quest
 
