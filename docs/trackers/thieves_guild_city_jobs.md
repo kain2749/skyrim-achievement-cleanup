@@ -12,8 +12,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 ## City restoration checklist
 
 - [ ] **Whiterun**
-  - [ ] Small jobs complete: `0 / 5`
-  - [ ] Active job pending: **Whiterun**
+  - [ ] Small jobs complete: `1 / 5`
   - [ ] Special job unlocked: **Imitation Amnesty**
   - [ ] Special job complete
 
@@ -24,12 +23,12 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Solitude**
   - [ ] Small jobs complete: `1 / 5`
+  - [ ] Active jobs pending: **2x Solitude**
   - [ ] Special job unlocked: **The Dainty Sload**
   - [ ] Special job complete
 
 - [ ] **Windhelm**
-  - [ ] Small jobs complete: `1 / 5`
-  - [ ] Active job pending: **Windhelm**
+  - [ ] Small jobs complete: `2 / 5`
   - [ ] Special job unlocked: **Summerset Shadows**
   - [ ] Special job complete
 
@@ -43,5 +42,5 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Whiterun** — keep. Counts toward Whiterun `1 / 5` when turned in.
-- **Windhelm** — keep. Counts toward Windhelm `2 / 5` when turned in.
+- **Solitude** — keep. Counts toward Solitude `2 / 5` when turned in.
+- **Solitude** — keep. Counts toward Solitude `3 / 5` when turned in.
