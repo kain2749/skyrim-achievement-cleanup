@@ -27,8 +27,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
   - [ ] Special job complete
 
 - [ ] **Windhelm**
-  - [ ] Small jobs complete: `2 / 5`
-  - [ ] Active job pending: **Windhelm**
+  - [ ] Small jobs complete: `3 / 5`
   - [ ] Special job unlocked: **Summerset Shadows**
   - [ ] Special job complete
 
@@ -42,5 +41,11 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Windhelm** — keep. Counts toward Windhelm `3 / 5` when turned in.
 - **Riften** — reroll / quit. Does not count toward city restoration.
+
+Next useful jobs:
+
+- **Solitude** — keep one more, then ask Delvin for **The Dainty Sload**.
+- **Whiterun** — keep until `5 / 5`.
+- **Markarth** — keep until `5 / 5`.
+- **Windhelm** — keep until `5 / 5`.
