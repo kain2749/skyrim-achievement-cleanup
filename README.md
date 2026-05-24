@@ -2,6 +2,19 @@
 
 Working guide for finishing all Steam achievements in a no-mod Skyrim Special Edition run. The repository should record achievement progress and preserve advice for missable or risky objectives, not log every quest step.
 
+## Codex Experiment
+
+This repository is also a practical test of [OpenAI Codex](https://openai.com/codex/) as an ongoing assistant for a personal, stateful objective rather than a conventional software project.
+
+The workflow is deliberately conversational:
+
+- The player reports plans, discoveries, route changes, or newly unlocked achievements in ordinary language.
+- Codex inspects the repository and any supplied evidence, then updates the minimal guidance and progress records needed to keep the achievement run coherent.
+- Achievement screenshots can be stored in `evidence/` and linked from the checklist when confirmation matters.
+- Codex commits and pushes accepted documentation changes to GitHub, leaving the repository as the durable source of progress and strategy.
+
+Interaction is primarily through Codex in a terminal / Bash workflow, with Codex also connected to VSCodium for editor-based access to the same workspace. This is useful for testing whether one assistant can carry context across evolving gameplay decisions, local files, evidence images, and GitHub publication without turning the repository into a full play log.
+
 ## Current Route
 
 - Completed: **27 / 75**
