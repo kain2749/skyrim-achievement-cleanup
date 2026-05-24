@@ -21,11 +21,10 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
   - [ ] Special job unlocked: **Silver Lining**
   - [ ] Special job complete
 
-- [ ] **Solitude**
+- [x] **Solitude**
   - [x] Small jobs complete: `5 / 5`
   - [x] Special job unlocked: **The Dainty Sload**
-  - [ ] Special job active: **The Dainty Sload**
-  - [ ] Special job complete
+  - [x] Special job complete
 
 - [x] **Windhelm**
   - [x] Small jobs complete: `5 / 5`
@@ -42,11 +41,16 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **The Dainty Sload** — keep and complete. This is the Solitude special job.
+- None.
 
 Next useful jobs:
 
-- **Whiterun** — keep until `5 / 5`.
-- **Markarth** — keep until `5 / 5`.
-- **Solitude** — no more small jobs. Finish **The Dainty Sload** instead.
+- **Whiterun** — keep until `5 / 5`; needs 2 more small jobs, then **Imitation Amnesty**.
+- **Markarth** — keep until `5 / 5`; needs 3 more small jobs, then **Silver Lining**.
+- **Solitude** — restored. No more Solitude jobs needed.
 - **Windhelm** — restored. No more Windhelm jobs needed.
+
+Current keep/reroll rule:
+
+- **Keep:** Whiterun, Markarth
+- **Reroll / quit:** Riften, Raven Rock, Solitude, Windhelm
