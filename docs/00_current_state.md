@@ -4,9 +4,9 @@ Last updated: 2026-05-24
 
 ## Achievement state
 
-- Completed: **23 / 75**
-- Remaining: **52 / 75**
-- Confirmed during this cleanup run: **5**
+- Completed: **24 / 75**
+- Remaining: **51 / 75**
+- Confirmed during this cleanup run: **6**
 - Platform: **Skyrim Special Edition on PC / Steam**
 - Goal: achievements, not honor
 
@@ -23,7 +23,7 @@ Last updated: 2026-05-24
 1. Finish Thieves Guild restoration.
 2. Pop **One with the Shadows**.
 3. Make hard save: `tg_after_one_with_the_shadows`.
-4. Start/continue Daedric artifact cleanup for **Oblivion Walker**.
+4. Continue Daedric artifact cleanup for **Oblivion Walker**.
 
 ## Dragon policy
 
@@ -38,5 +38,15 @@ Safe before dragons:
 ## Current known artifact state
 
 - Skeleton Key returned; does **not** count for Oblivion Walker and does **not** hurt the run.
-- **The House of Horrors** started in Markarth; Tyranus dead is normal.
-- Prioritize finishing **The House of Horrors** correctly if active: free Logrolf, send him to the abandoned house, do Molag Bal's scripted murder theater, take **Mace of Molag Bal**.
+- **The House of Horrors** complete.
+- **Mace of Molag Bal** secured.
+- **Daedric Influence** popped.
+- Oblivion Walker artifact count: `1 / 15`.
+
+## Current next action
+
+Return to Thieves Guild city-job grinding for **One with the Shadows**.
+
+Known active Thieves Guild radiant job:
+
+- **Numbers Job in Markarth** — keep and complete if not already turned in.
