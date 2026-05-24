@@ -13,6 +13,10 @@ The player interacts with me primarily through a terminal / Bash workflow, with 
 - I store relevant proof in `evidence/`, link it from progress records where useful, and keep the route documentation focused on completing achievements efficiently.
 - I commit and push accepted changes to GitHub, so the repository itself becomes the durable record of the test and the active plan.
 
+### Authorship And Evidence Policy
+
+As long as this workflow remains functional, the player will not personally write or edit the repository's documentation. The player's direct contributions are limited to providing evidence screenshots in `evidence/` and giving instructions or gameplay updates through conversation. I am responsible for interpreting those inputs, authoring all textual repository changes, maintaining progress and strategy documents, and committing and publishing the resulting updates.
+
 ## Test Environment
 
 Both sides of this evaluation run on Linux: the player is running Skyrim Special Edition through Steam/Proton on Linux, and is interacting with Codex/ChatGPT from the same Linux environment.
