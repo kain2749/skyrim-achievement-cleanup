@@ -29,6 +29,16 @@ player.setav speedmult 250
 
 These are useful, but they can interrupt scenes, skip trigger boxes, or leave NPCs in stupid places.
 
+## Combat-state recovery
+
+```text
+player.SCAOnActor
+```
+
+`SCAOnActor` is short for `StopCombatAlarmOnActor`. Used on the player, it stops combat and alarms from actors currently fighting the player. In practice, it can clear stuck combat state when a quest giver will not enter dialogue or advance a quest because the game still considers combat active.
+
+Use it only when combat should already be over, and make a hard save first. Do not use it during scripted fights or encounters whose progression depends on combat resolving normally.
+
 ## Disposable save / repair only
 
 ```text
