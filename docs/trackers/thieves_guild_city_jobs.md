@@ -13,6 +13,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Whiterun**
   - [ ] Small jobs complete: `1 / 5`
+  - [ ] Active job pending: **Whiterun**
   - [ ] Special job unlocked: **Imitation Amnesty**
   - [ ] Special job complete
 
@@ -22,8 +23,8 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
   - [ ] Special job complete
 
 - [ ] **Solitude**
-  - [ ] Small jobs complete: `1 / 5`
-  - [ ] Active jobs pending: **2x Solitude**
+  - [ ] Small jobs complete: `3 / 5`
+  - [ ] Active job pending: **Solitude**
   - [ ] Special job unlocked: **The Dainty Sload**
   - [ ] Special job complete
 
@@ -42,5 +43,5 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Solitude** — keep. Counts toward Solitude `2 / 5` when turned in.
-- **Solitude** — keep. Counts toward Solitude `3 / 5` when turned in.
+- **Whiterun** — keep. Counts toward Whiterun `2 / 5` when turned in.
+- **Solitude** — keep. Counts toward Solitude `4 / 5` when turned in.
