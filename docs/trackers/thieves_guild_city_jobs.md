@@ -13,6 +13,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Whiterun**
   - [ ] Small jobs complete: `2 / 5`
+  - [ ] Active job pending: **Whiterun**
   - [ ] Special job unlocked: **Imitation Amnesty**
   - [ ] Special job complete
 
@@ -28,6 +29,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Windhelm**
   - [ ] Small jobs complete: `3 / 5`
+  - [ ] Active job pending: **Windhelm**
   - [ ] Special job unlocked: **Summerset Shadows**
   - [ ] Special job complete
 
@@ -41,7 +43,8 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Riften** — reroll / quit. Does not count toward city restoration.
+- **Whiterun** — keep. Counts toward Whiterun `3 / 5` when turned in.
+- **Windhelm** — keep. Counts toward Windhelm `4 / 5` when turned in.
 
 Next useful jobs:
 
