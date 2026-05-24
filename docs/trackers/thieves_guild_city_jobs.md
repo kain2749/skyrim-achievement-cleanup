@@ -12,14 +12,13 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 ## City restoration checklist
 
 - [ ] **Whiterun**
-  - [ ] Small jobs complete: `3 / 5`
-  - [ ] Active job pending: **Whiterun Numbers Job**
-  - [ ] Special job unlocked: **Imitation Amnesty**
+  - [x] Small jobs complete: `5 / 5`
+  - [x] Special job unlocked: **Imitation Amnesty**
+  - [ ] Special job active: **Imitation Amnesty**
   - [ ] Special job complete
 
 - [ ] **Markarth**
-  - [ ] Small jobs complete: `2 / 5`
-  - [ ] Active job pending: **Markarth Burglary Job**
+  - [ ] Small jobs complete: `3 / 5`
   - [ ] Special job unlocked: **Silver Lining**
   - [ ] Special job complete
 
@@ -43,17 +42,16 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Whiterun Numbers Job** — keep. Counts toward Whiterun `4 / 5` when turned in.
-- **Markarth Burglary Job** — keep. Counts toward Markarth `3 / 5` when turned in.
+- **Imitation Amnesty** — keep and complete. This is the Whiterun special job.
 
 Next useful jobs:
 
-- **Whiterun** — keep until `5 / 5`; needs 2 more small jobs before current turn-in, then **Imitation Amnesty**.
-- **Markarth** — keep until `5 / 5`; needs 3 more small jobs before current turn-in, then **Silver Lining**.
+- **Whiterun** — no more small jobs. Finish **Imitation Amnesty** instead.
+- **Markarth** — keep until `5 / 5`; needs 2 more small jobs, then **Silver Lining**.
 - **Solitude** — restored. No more Solitude jobs needed.
 - **Windhelm** — restored. No more Windhelm jobs needed.
 
 Current keep/reroll rule:
 
-- **Keep:** Whiterun, Markarth
-- **Reroll / quit:** Riften, Raven Rock, Solitude, Windhelm
+- **Keep:** Markarth
+- **Reroll / quit:** Riften, Raven Rock, Solitude, Windhelm, Whiterun
