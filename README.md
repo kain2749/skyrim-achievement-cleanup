@@ -53,7 +53,7 @@ If doing this with no moral restraint:
 11. Run Dawnguard, master Vampire Lord, get Soul Tear/Auriel/Legend.
 12. Build Hearthfire houses and adopt.
 13. Run Dragonborn.
-14. Clean up misc grind: Reader, Delver, Explorer, Standing Stones, Thief, Master Criminal.
+14. Clean up misc grind: Reader, Delver, Explorer, Standing Stones
 
 The big pain achievements are:
 
@@ -393,7 +393,6 @@ Missing:
 
 - Darkness Returns
 - One with the Shadows
-- Thief
 
 Fresh-save prerequisite:
 
@@ -478,7 +477,6 @@ unlock
 tcl
 movetoqt
 player.additem a 9999
-```
 
 `unlock` is fine here because these radiant jobs are about completing the job objective, not getting lockpick credit.
 
@@ -509,47 +507,71 @@ Missing:
 - Daedric Influence
 - Oblivion Walker
 
-You need 15 Daedric artifacts. Simply `player.additem`-ing artifacts may not count. The safer route is to complete the Daedric quests with cheats.
+### Oblivion Walker
 
-High-risk / missable choices:
+Achievement: **Oblivion Walker**  
+Steam text: **Collect 15 Daedric Artifacts.**
 
-- **Ill Met by Moonlight**: try to get both **Ring of Hircine** and **Savior's Hide** if you want insurance.
-- **A Daedra's Best Friend**: take **Masque of Clavicus Vile**, not the Rueful Axe.
-- **Waking Nightmare**: take **Skull of Corruption** by killing Erandur.
-- **Pieces of the Past**: kill Silus and take **Mehrunes' Razor**.
-- **The Taste of Death**: side with Eola and get **Ring of Namira**.
-- **House of Horrors**: get **Mace of Molag Bal**.
-- **The Black Star**: either Azura's Star or Black Star should count, but Black Star is more useful.
+This achievement is not just "finish the Daedric quests." Some Daedric quests have a wrong reward that **does not count**. The big failure cases are **Rueful Axe**, sparing Silus during **Pieces of the Past**, letting Erandur destroy the **Skull of Corruption**, and wiping out the Namira cult before getting the **Ring of Namira**.
 
-Artifacts to target:
+Working rule: make a hard save before the final choice of every Daedric quest, then confirm the artifact is actually in inventory.
 
-- Azura's Star / The Black Star
-- Dawnbreaker
-- Ebony Blade
-- Ebony Mail
-- Mace of Molag Bal
-- Masque of Clavicus Vile
-- Mehrunes' Razor
-- Oghma Infinium
-- Ring of Hircine
-- Savior's Hide
-- Ring of Namira
-- Sanguine Rose
-- Skull of Corruption
-- Spellbreaker
-- Volendrung
-- Wabbajack
+Progress:
 
-Cheat posture:
+- [ ] Achievement popped
+- Artifact count: `0 / 15`
 
-```text
-tgm
-player.additem f 100000
-player.advskill speechcraft 1000000
-movetoqt <QuestID>
-```
+Do **not** count these:
 
-Use a quest guide for start locations if needed, but do the actual completions in-game. This is one of the easiest achievement sets to poison with the wrong console shortcut.
+- **Rueful Axe** — trap reward from **A Daedra's Best Friend**
+- **Skeleton Key** — Daedric artifact in lore, but not valid for Oblivion Walker
+- **Cursed Ring of Hircine** — temporary quest item, not the final artifact
+- Random Daedric gear, enchanted loot, or conjured weapons
+
+Daedric artifact checklist:
+
+| Done | Prince | Quest | Artifact / valid reward | Required choice / warning | Proof |
+|---|---|---|---|---|---|
+| [ ] | Azura | The Black Star | Azura's Star **or** The Black Star | Either final reward counts. Pick whichever route you want. | Inventory screenshot / achievement tracker |
+| [ ] | Meridia | The Break of Dawn | Dawnbreaker | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Mephala | The Whispering Door | Ebony Blade | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Boethiah | Boethiah's Calling | Ebony Mail | Finish normally. Requires sacrifice. | Inventory screenshot / achievement tracker |
+| [ ] | Molag Bal | The House of Horrors | Mace of Molag Bal | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Clavicus Vile | A Daedra's Best Friend | Masque of Clavicus Vile | **Spare Barbas. Do not keep the Rueful Axe.** Rueful Axe is the classic bad ending for this achievement. | Inventory screenshot / achievement tracker |
+| [ ] | Mehrunes Dagon | Pieces of the Past | Mehrunes' Razor | **Kill Silus** when Dagon tells you to. Sparing him blocks the artifact. | Inventory screenshot / achievement tracker |
+| [ ] | Hermaeus Mora | Discerning the Transmundane | Oghma Infinium | Finish normally. Reading/using the book is separate from acquiring it. | Inventory screenshot / achievement tracker |
+| [ ] | Namira | The Taste of Death | Ring of Namira | Side with Eola/cult and complete the feast path. Killing the cult early blocks the ring. | Inventory screenshot / achievement tracker |
+| [ ] | Sanguine | A Night to Remember | Sanguine Rose | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Hircine | Ill Met by Moonlight | Ring of Hircine **or** Savior's Hide | Either final artifact counts. Getting both is possible with the known Sinding exploit and can act as insurance. | Inventory screenshot / achievement tracker |
+| [ ] | Peryite | The Only Cure | Spellbreaker | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Malacath | The Cursed Tribe | Volendrung | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Sheogorath | The Mind of Madness | Wabbajack | Finish normally. | Inventory screenshot / achievement tracker |
+| [ ] | Vaermina | Waking Nightmare | Skull of Corruption | **Kill Erandur.** Letting him destroy the skull blocks the artifact. | Inventory screenshot / achievement tracker |
+
+High-risk choices:
+
+- [ ] **A Daedra's Best Friend** — took **Masque of Clavicus Vile**, not Rueful Axe
+- [ ] **Pieces of the Past** — killed Silus and took **Mehrunes' Razor**
+- [ ] **Waking Nightmare** — killed Erandur and took **Skull of Corruption**
+- [ ] **The Taste of Death** — sided with Namira cult and took **Ring of Namira**
+- [ ] **Ill Met by Moonlight** — took at least one final Hircine artifact, not just the cursed ring
+
+Recommended insurance:
+
+- Make a named hard save before each final Daedric quest decision.
+- Track the artifact after it is physically in inventory, not when the quest text says complete.
+- Do not use `setstage`, `completequest`, or `caqs` for Daedric quests on the real save.
+- If a Daedric quest bugs out, repair it on a copied save first.
+- If using the Hircine two-artifact exploit, still assume the achievement wants 15 valid artifacts total and confirm the final count by inventory/progress evidence.
+
+Suggested hard-save names:
+
+- `ow_before_clavicus_choice`
+- `ow_before_silus_choice`
+- `ow_before_erandur_choice`
+- `ow_before_namira_feast`
+- `ow_before_hircine_final_choice`
+- `ow_after_15_artifacts`
 
 ## Phase 7 — Dawnguard — est. 6–10 hr
 
