@@ -14,10 +14,8 @@ Use named hard saves before anything that can poison achievement state.
 - [ ] `07_before_dragonborn_black_books`
 - [ ] `08_before_console_stage_abuse`
 
-## Current phase saves
+## Active run saves
 
-- [x] `tg_before_darkness_returns`
-- [x] `tg_after_darkness_returns`
 - [ ] `tg_after_one_with_the_shadows`
 - [x] `ow_before_house_of_horrors_logrolf`
 - [x] `ow_after_mace_of_molag_bal`

@@ -10,6 +10,8 @@ Last updated: 2026-05-24
 - Platform: **Skyrim Special Edition on PC / Steam**
 - Goal: achievements, not honor
 
+Full list: [Achievement Checklist](04_achievement_checklist.md)
+
 ## Active phase
 
 - Active phase: **Phase 6 — Oblivion Walker / Daedric artifacts**
