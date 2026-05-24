@@ -8,12 +8,14 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 ## Current state
 
-- Completed: **24 / 75**
-- Remaining: **51 / 75**
-- Confirmed during this cleanup run: **6**
-- Active phase: **Phase 4 — Thieves Guild**
-- Current target: **One with the Shadows**
+- Completed: **26 / 75**
+- Remaining: **49 / 75**
+- Confirmed during this cleanup run: **8**
+- Active phase: **Phase 6 — Oblivion Walker / Daedric artifacts**
+- Current target: **Oblivion Walker**
+- Thieves Guild: **complete**
 - Main Thieves Guild questline: **complete through Darkness Returns**
+- Guild restoration: **complete through One with the Shadows / Under New Management**
 - Skeleton Key: **returned**
 - Nocturnal agent: **Agent of Stealth / Shadowcloak of Nocturnal**
 - Daedric artifact count: **1 / 15**
@@ -25,11 +27,9 @@ Current state lives here:
 
 ## Current route
 
-1. Finish Thieves Guild restoration.
-2. Pop **One with the Shadows**.
-3. Save: `tg_after_one_with_the_shadows`.
-4. Continue Daedric artifact cleanup for **Oblivion Walker**.
-5. Delay main quest / random dragons until ready.
+1. Make hard save: `tg_after_one_with_the_shadows`.
+2. Continue Daedric artifact cleanup for **Oblivion Walker**.
+3. Delay main quest / random dragons until ready.
 
 Route notes:
 
@@ -71,7 +71,7 @@ Route notes:
 ### Base / Thieves Guild
 
 - [x] **Darkness Returns** — Complete "Darkness Returns"
-- [ ] **One with the Shadows** — Return the Thieves Guild to its former glory
+- [x] **One with the Shadows** — Return the Thieves Guild to its former glory
 
 ### Base / Civil War
 
@@ -85,7 +85,7 @@ Route notes:
 - [ ] **Hero of the People** — Complete 50 Misc Objectives
 - [ ] **Hard Worker** — Chop wood, mine ore, and cook food
 - [x] **Thief** — Pick 50 locks and 50 pockets
-- [ ] **Snake Tongue** — Successfully persuade, bribe, and intimidate
+- [x] **Snake Tongue** — Successfully persuade, bribe, and intimidate
 - [ ] **Standing Stones** — Find 13 Standing Stones
 - [ ] **Wanted** — Escape from jail
 - [ ] **Married** — Get married
