@@ -6,21 +6,20 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 ## Progress
 
-- [ ] Achievement popped
-- [ ] Under New Management complete
+- [x] Achievement popped
+- [x] Under New Management complete
 
 ## City restoration checklist
 
-- [ ] **Whiterun**
+- [x] **Whiterun**
   - [x] Small jobs complete: `5 / 5`
   - [x] Special job unlocked: **Imitation Amnesty**
-  - [ ] Special job active: **Imitation Amnesty**
-  - [ ] Special job complete
+  - [x] Special job complete
 
-- [ ] **Markarth**
-  - [ ] Small jobs complete: `3 / 5`
-  - [ ] Special job unlocked: **Silver Lining**
-  - [ ] Special job complete
+- [x] **Markarth**
+  - [x] Small jobs complete: `5 / 5`
+  - [x] Special job unlocked: **Silver Lining**
+  - [x] Special job complete
 
 - [x] **Solitude**
   - [x] Small jobs complete: `5 / 5`
@@ -34,24 +33,11 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 ## Notes
 
-Jobs from **Delvin** and **Vex** count toward the 5-per-city requirement.
+Thieves Guild restoration is complete. No more Delvin/Vex city-job tracking needed for achievements.
 
-Riften and Raven Rock do not count.
+Final restored cities:
 
-Reload/reroll jobs that target already-finished cities unless just farming gold.
-
-Current known active jobs:
-
-- **Imitation Amnesty** — keep and complete. This is the Whiterun special job.
-
-Next useful jobs:
-
-- **Whiterun** — no more small jobs. Finish **Imitation Amnesty** instead.
-- **Markarth** — keep until `5 / 5`; needs 2 more small jobs, then **Silver Lining**.
-- **Solitude** — restored. No more Solitude jobs needed.
-- **Windhelm** — restored. No more Windhelm jobs needed.
-
-Current keep/reroll rule:
-
-- **Keep:** Markarth
-- **Reroll / quit:** Riften, Raven Rock, Solitude, Windhelm, Whiterun
+- Whiterun — **Imitation Amnesty** complete
+- Markarth — **Silver Lining** complete
+- Solitude — **The Dainty Sload** complete
+- Windhelm — **Summerset Shadows** complete
