@@ -7,9 +7,9 @@ This achievement is not just "finish the Daedric quests." Some Daedric quests ha
 
 ## Progress
 
-- [ ] **Daedric Influence** popped
+- [x] **Daedric Influence** popped
 - [ ] **Oblivion Walker** popped
-- Artifact count: `0 / 15`
+- Artifact count: `1 / 15`
 
 ## Do not count
 
@@ -26,7 +26,7 @@ This achievement is not just "finish the Daedric quests." Some Daedric quests ha
 | [ ] | Meridia | The Break of Dawn | Dawnbreaker | Finish normally. | Inventory screenshot / achievement tracker |
 | [ ] | Mephala | The Whispering Door | Ebony Blade | Finish normally. | Inventory screenshot / achievement tracker |
 | [ ] | Boethiah | Boethiah's Calling | Ebony Mail | Finish normally. Requires sacrifice. | Inventory screenshot / achievement tracker |
-| [ ] | Molag Bal | The House of Horrors | Mace of Molag Bal | Free Logrolf, send him to the house, kill him only when Molag Bal says. | Inventory screenshot / achievement tracker |
+| [x] | Molag Bal | The House of Horrors | Mace of Molag Bal | Free Logrolf, send him to the house, kill him only when Molag Bal says. | Achievement screenshot: Daedric Influence / inventory proof |
 | [ ] | Clavicus Vile | A Daedra's Best Friend | Masque of Clavicus Vile | **Spare Barbas. Do not keep the Rueful Axe.** | Inventory screenshot / achievement tracker |
 | [ ] | Mehrunes Dagon | Pieces of the Past | Mehrunes' Razor | **Kill Silus** when Dagon tells you to. | Inventory screenshot / achievement tracker |
 | [ ] | Hermaeus Mora | Discerning the Transmundane | Oghma Infinium | Finish normally. Reading/using the book is separate from acquiring it. | Inventory screenshot / achievement tracker |
@@ -44,7 +44,7 @@ This achievement is not just "finish the Daedric quests." Some Daedric quests ha
 - [ ] **Pieces of the Past** — killed Silus and took **Mehrunes' Razor**
 - [ ] **Waking Nightmare** — killed Erandur and took **Skull of Corruption**
 - [ ] **The Taste of Death** — sided with Namira cult and took **Ring of Namira**
-- [ ] **The House of Horrors** — Logrolf reached the house before being killed
+- [x] **The House of Horrors** — Logrolf reached the house before being killed
 - [ ] **Ill Met by Moonlight** — took at least one final Hircine artifact, not just the cursed ring
 
 ## Suggested hard-save names
