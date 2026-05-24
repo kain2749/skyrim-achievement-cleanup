@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Canonical completion list for the active cleanup run. Current routing and in-game state are tracked in [Current State](00_current_state.md).
+Completed achievement total: **26 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -20,6 +20,8 @@ Canonical completion list for the active cleanup run. Current routing and in-gam
 
 - [ ] **Revealing the Unseen** — Complete "Revealing the Unseen"
 - [ ] **The Eye of Magnus** — Complete "The Eye of Magnus"
+
+Current progress: on **Hitting the Books**; no College achievement has been reported unlocked yet.
 
 ## Base / Thieves Guild
 

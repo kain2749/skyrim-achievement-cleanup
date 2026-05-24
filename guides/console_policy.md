@@ -1,4 +1,4 @@
-# Cheat Policy
+# Console Policy
 
 Goal: remove friction, not fake quest state unless the save is disposable.
 
@@ -41,7 +41,7 @@ psb
 
 `setstage` can make the quest journal look correct while hidden variables, aliases, NPC packages, or achievement scripts are still wrong.
 
-`caqs` is save soup. Use only when the save is already sacrificial.
+Use `caqs` only when the save is already disposable.
 
 ## Skill leveling
 
