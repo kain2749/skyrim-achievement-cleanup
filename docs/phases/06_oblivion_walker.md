@@ -2,29 +2,20 @@
 
 Achievements:
 
-- [ ] **Daedric Influence** — Acquire a Daedric Artifact
+- [x] **Daedric Influence** — Acquire a Daedric Artifact
 - [ ] **Oblivion Walker** — Collect 15 Daedric Artifacts
 
 ## Current note
 
-**The House of Horrors** has been started in Markarth. Tyranus being dead is normal.
+**The House of Horrors** is complete.
 
-Safe completion path:
+Secured artifact:
 
-1. Find **Logrolf the Willful**.
-2. Free him from the Forsworn.
-3. Do **not** kill him before he reaches the abandoned house.
-4. Return to the abandoned house.
-5. Follow Molag Bal's instructions.
-6. Take **Mace of Molag Bal**.
-7. Mark it in the artifact tracker.
+- [x] **Mace of Molag Bal**
 
-Suggested saves:
+Oblivion Walker progress:
 
-```text
-save ow_before_house_of_horrors_logrolf
-save ow_after_mace_of_molag_bal
-```
+- Artifact count: `1 / 15`
 
 ## Rule
 
