@@ -17,7 +17,8 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
   - [ ] Special job complete
 
 - [ ] **Markarth**
-  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Small jobs complete: `1 / 5`
+  - [ ] Active job pending: **Markarth**
   - [ ] Special job unlocked: **Silver Lining**
   - [ ] Special job complete
 
@@ -27,7 +28,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
   - [ ] Special job complete
 
 - [ ] **Windhelm**
-  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Small jobs complete: `1 / 5`
   - [ ] Special job unlocked: **Summerset Shadows**
   - [ ] Special job complete
 
@@ -38,3 +39,7 @@ Jobs from **Delvin** and **Vex** count toward the 5-per-city requirement.
 Riften and Raven Rock do not count.
 
 Reload/reroll jobs that target already-finished cities unless just farming gold.
+
+Current known active job:
+
+- **Markarth** — keep. Counts toward Markarth `2 / 5` when turned in.
