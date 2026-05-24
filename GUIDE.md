@@ -1,6 +1,6 @@
 # Remaining Achievement Completion Guide
 
-This is the optimized route for the **49 achievements currently remaining**. It is written for the current PC / Steam Special Edition save and assumes console-assisted travel, resources, leveling, and combat are acceptable.
+This is the optimized route for the **48 achievements currently remaining**. It is written for the current PC / Steam Special Edition save and assumes console-assisted travel, resources, leveling, and combat are acceptable.
 
 The rule is simple: cheat away friction, but perform achievement-triggering quests, choices, perk acquisitions, crafting, discoveries, and kills through their normal in-game events.
 
@@ -43,7 +43,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
 | 6 | Hearthfire construction | **Proud Parent**, **Architect**, **Land Baron**, **Master Architect** |
-| 7 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Standing Stones**, **Wanted**, **Married**, **Delver**, **Explorer**, **Reader** |
+| 7 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Standing Stones**, **Wanted**, **Married**, **Delver**, **Explorer** |
 | 8 | Late `Dragon Rising` gateway and deferred Dawnguard shout | **Soul Tear** |
 | 9 | Dragonborn / Solstheim with dragons enabled | **Outlander**, **The Temple of Miraak**, **The Path of Knowledge**, **At the Summit of Apocrypha**, **Dragon Aspect**, **Hidden Knowledge**, **Stalhrim Crafter**, **Dragonrider**, **Raven Rock Owner**, **Solstheim Explorer** |
 | 10 | Finish the remaining base main quest last, then mop up dragon counters | **The Way of the Voice**, **Diplomatic Immunity**, **Alduin's Wall**, **Elder Knowledge**, **The Fallen**, **Dragonslayer**, **Dragon Hunter**, **Words of Power**, **Thu'um Master**, **Legend** |
@@ -222,9 +222,8 @@ Most of these will advance passively during the route above. Inspect the in-game
 | **Hero of the People** | Finish short miscellaneous objectives encountered in towns and during travel until 50. |
 | **Explorer** | Discover map markers while doing every phase; sweep missing roadside markers only at the end. |
 | **Delver** | Clear boss-bearing dungeons while traveling for quests and word walls; mop up compact caves/camps at the end. `Angarvunde` and `Mistwatch` may display as cleared without counting toward this achievement. |
-| **Reader** | Open every skill book encountered in dungeons, homes, guild locations, and DLC areas; use a skill-book location list only for final cleanup. |
 
-Expected gain: **up to 9 achievements**; any counters not finished yet remain cleanup after later phases.
+Expected gain: **up to 8 achievements**; any counters not finished yet remain cleanup after later phases.
 
 ## Phase 8: Late Dragon Gateway And Deferred Soul Tear
 
@@ -306,11 +305,11 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Oblivion Walker | 1 |
 | Civil War | 3 |
 | Hearthfire | 4 |
-| Miscellaneous cleanup | 9 |
+| Miscellaneous cleanup | 8 |
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **49** |
+| **Total remaining** | **48** |
 
 ## References
 

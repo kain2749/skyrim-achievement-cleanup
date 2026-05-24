@@ -4,7 +4,7 @@ Working guide for finishing all Steam achievements in a no-mod Skyrim Special Ed
 
 ## Current Route
 
-- Completed: **26 / 75**
+- Completed: **27 / 75**
 - Current quest: **Hitting the Books** in the College of Winterhold questline
 - Current goal: finish the College achievements:
   - [ ] **Revealing the Unseen** - complete "Revealing the Unseen"

@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **26 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **27 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -49,7 +49,7 @@ Current progress: on **Hitting the Books**; no College achievement has been repo
 - [x] **Master Criminal** — Bounty of 1000 gold in all nine holds
 - [ ] **Delver** — Clear 50 dungeons
 - [ ] **Explorer** — Discover 100 locations
-- [ ] **Reader** — Read 50 skill books
+- [x] **Reader** — Read 50 skill books ([evidence](evidence/reader.png))
 
 ## Base / Daedric
 
