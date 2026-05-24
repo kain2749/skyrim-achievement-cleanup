@@ -15,6 +15,7 @@ Active work:
 
 ## Reference
 
+- [ChatGPT Project Source](CHATGPT_PROJECT_SOURCE.md)
 - [Achievement Checklist](docs/04_achievement_checklist.md)
 - [Route Overview](docs/03_route_overview.md)
 - [Save Strategy](docs/01_save_strategy.md)
