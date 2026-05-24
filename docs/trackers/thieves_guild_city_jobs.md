@@ -23,7 +23,6 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Solitude**
   - [ ] Small jobs complete: `4 / 5`
-  - [ ] Active job pending: **Solitude**
   - [ ] Special job unlocked: **The Dainty Sload**
   - [ ] Special job complete
 
@@ -43,5 +42,5 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- **Solitude** — keep. Counts toward Solitude `5 / 5` when turned in, then ask Delvin for **The Dainty Sload**.
 - **Windhelm** — keep. Counts toward Windhelm `3 / 5` when turned in.
+- **Riften** — reroll / quit. Does not count toward city restoration.
