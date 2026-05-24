@@ -411,25 +411,79 @@ player.additem a 9999
 
 ### One with the Shadows
 
-Requirement: restore the Thieves Guild by doing enough radiant jobs in the four major target cities, then completing each special city job.
+Achievement: **One with the Shadows**  
+Steam text: **Return the Thieves Guild to its former glory.**
 
-Target cities:
+This is **not** the same thing as just finishing the Mercer / Skeleton Key / Nightingale questline.
+
+The final quest involved is **Under New Management**, but that is the **quest name**, not the achievement name. The achievement should pop after the guild is restored and the Guild Master ceremony path completes.
+
+Requirements:
+
+1. Complete the main Thieves Guild questline through **Darkness Returns**.
+2. Do enough Delvin/Vex radiant jobs to restore influence in the four target cities.
+3. Complete the special reputation job Delvin gives for each restored city.
+4. After all four special jobs are done, complete **Under New Management**.
+
+Target cities only:
 
 - Whiterun
 - Markarth
 - Solitude
 - Windhelm
 
-Practical route:
+Does **not** count:
 
-1. Take jobs from Delvin and Vex.
-2. If the job is in the wrong city, quit/reload and take another.
-3. Use `unlock`, `tgm`, `tcl`, and `movetoqt` to remove friction.
-4. Finish 5 jobs in each target city.
-5. Do the special job for that city.
-6. After all four special jobs, finish **Under New Management**.
+- Riften
+- Raven Rock / Solstheim
+- Any city already fully restored, unless you are just farming gold for some reason
 
-Do not rely on `setstage` here. This achievement is quest-variable garbage.
+City restoration checklist:
+
+- [ ] **Whiterun**
+  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Special job unlocked: **Imitation Amnesty**
+  - [ ] Special job complete
+
+- [ ] **Markarth**
+  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Special job unlocked: **Silver Lining**
+  - [ ] Special job complete
+
+- [ ] **Solitude**
+  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Special job unlocked: **The Dainty Sload**
+  - [ ] Special job complete
+
+- [ ] **Windhelm**
+  - [ ] Small jobs complete: `0 / 5`
+  - [ ] Special job unlocked: **Summerset Shadows**
+  - [ ] Special job complete
+
+Radiant job handling:
+
+1. Take jobs from **Delvin** and/or **Vex**.
+2. Check the target city immediately.
+3. If the job is for Riften, Raven Rock, or a city already finished, quit/reload and reroll.
+4. Complete 5 jobs in each target city.
+5. When a city hits 5 completed jobs, talk to Delvin for that city’s special job.
+6. Finish all four special jobs.
+7. Finish **Under New Management**.
+
+Cheat posture:
+
+```text
+tgm
+unlock
+tcl
+movetoqt
+player.additem a 9999
+```
+
+`unlock` is fine here because these radiant jobs are about completing the job objective, not getting lockpick credit.
+
+Do **not** rely on `setstage` for this achievement unless the save is disposable. This chain depends on hidden quest variables, city job counts, special-job completion, guild upgrade state, and Brynjolf/Delvin follow-up behavior. Console-skipping one visible quest stage can leave the actual restoration state broken.
+```
 
 ## Phase 5 — Civil War — est. 3–5 hr
 
