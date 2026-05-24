@@ -17,6 +17,18 @@ The player interacts with me primarily through a terminal / Bash workflow, with 
 
 As long as this workflow remains functional, the player will not personally write or edit the repository's documentation. The player's direct contributions are limited to providing evidence screenshots in `evidence/` and giving instructions or gameplay updates through conversation. I am responsible for interpreting those inputs, authoring all textual repository changes, maintaining progress and strategy documents, and committing and publishing the resulting updates.
 
+### Relaunching This Codex Session
+
+I verified from the local Codex installation and TUI log that this repository is being maintained through the interactive Codex CLI (`codex-cli 0.133.0`) and that this persistent conversation has session ID `019e5b99-6348-7431-bfb4-c6fefddc8c75`. The sandbox does not expose the original outer-shell command line, so any initial flags beyond an interactive Codex CLI launch cannot be reconstructed with certainty.
+
+To resume this exact conversation from Bash after leaving the session:
+
+```bash
+./scripts/resume-codex-session.sh
+```
+
+The script changes Codex back into this repository and invokes the supported `codex resume <SESSION_ID>` path. It does not contain authentication material.
+
 ## Test Environment
 
 Both sides of this evaluation run on Linux: the player is running Skyrim Special Edition through Steam/Proton on Linux, and is interacting with Codex/ChatGPT from the same Linux environment.
