@@ -8,14 +8,16 @@ Do not use `caqs` unless the save is disposable. It can complete incompatible qu
 
 ## Current state
 
-- Completed: **23 / 75**
-- Remaining: **52 / 75**
-- Confirmed during this cleanup run: **5**
+- Completed: **24 / 75**
+- Remaining: **51 / 75**
+- Confirmed during this cleanup run: **6**
 - Active phase: **Phase 4 — Thieves Guild**
 - Current target: **One with the Shadows**
 - Main Thieves Guild questline: **complete through Darkness Returns**
 - Skeleton Key: **returned**
 - Nocturnal agent: **Agent of Stealth / Shadowcloak of Nocturnal**
+- Daedric artifact count: **1 / 15**
+- Secured artifact: **Mace of Molag Bal**
 
 Current state lives here:
 
@@ -94,7 +96,7 @@ Route notes:
 
 ### Base / Daedric
 
-- [ ] **Daedric Influence** — Acquire a Daedric Artifact
+- [x] **Daedric Influence** — Acquire a Daedric Artifact
 - [ ] **Oblivion Walker** — Collect 15 Daedric Artifacts
 
 ### Base / Dragon / Shouts
