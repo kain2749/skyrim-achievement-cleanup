@@ -31,6 +31,7 @@ Why: changing from vampire to werewolf clears vampirism and avoids carrying the 
 
 ## Useful Documents
 
+- [Remaining Achievement Completion Guide](GUIDE.md) - optimized order and safe shortcuts for all remaining unlocks
 - [Achievement Checklist](ACHIEVEMENTS.md) - what remains and what is complete
 - [Oblivion Walker Guide](guides/oblivion_walker.md) - missable artifact reward choices to preserve when returning to that objective
 - [Console Policy](guides/console_policy.md) - commands that are acceptable shortcuts versus commands likely to damage achievement state
