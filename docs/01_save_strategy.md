@@ -19,8 +19,8 @@ Use named hard saves before anything that can poison achievement state.
 - [x] `tg_before_darkness_returns`
 - [x] `tg_after_darkness_returns`
 - [ ] `tg_after_one_with_the_shadows`
-- [ ] `ow_before_house_of_horrors_logrolf`
-- [ ] `ow_after_mace_of_molag_bal`
+- [x] `ow_before_house_of_horrors_logrolf`
+- [x] `ow_after_mace_of_molag_bal`
 
 ## Console save syntax
 
