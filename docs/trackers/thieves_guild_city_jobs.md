@@ -24,6 +24,7 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Solitude**
   - [ ] Small jobs complete: `0 / 5`
+  - [ ] Active job pending: **Solitude Burglary**
   - [ ] Special job unlocked: **The Dainty Sload**
   - [ ] Special job complete
 
@@ -40,6 +41,7 @@ Riften and Raven Rock do not count.
 
 Reload/reroll jobs that target already-finished cities unless just farming gold.
 
-Current known active job:
+Current known active jobs:
 
 - **Markarth** — keep. Counts toward Markarth `2 / 5` when turned in.
+- **Solitude Burglary** — keep. Counts toward Solitude `1 / 5` when turned in.
