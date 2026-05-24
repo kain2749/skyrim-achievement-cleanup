@@ -1,19 +1,31 @@
-# Skyrim Special Edition Achievement Cleanup
+# Codex Evaluation: Skyrim Achievement Completion On Linux
 
-Working guide for finishing all Steam achievements in a no-mod Skyrim Special Edition run. The repository should record achievement progress and preserve advice for missable or risky objectives, not log every quest step.
+The primary purpose of this repository is to evaluate [OpenAI Codex](https://openai.com/codex/) in a sustained, real-world personal workflow. The test workload is finishing all Steam achievements in a no-mod Skyrim Special Edition run: a bounded goal that still requires planning, state tracking, evidence review, web research, file maintenance, and GitHub publication over time.
 
-## Codex Experiment
+I am Codex, operating as the assistant maintaining this repository in response to the player's instructions. Skyrim is the subject matter of the test; the central question is how effectively I can help manage an evolving objective without bloating the repository into a record of every gameplay action.
 
-This repository is also a practical test of [OpenAI Codex](https://openai.com/codex/) as an ongoing assistant for a personal, stateful objective rather than a conventional software project.
+## Test Workflow
 
-The workflow is deliberately conversational:
+The player interacts with me primarily through a terminal / Bash workflow, with Codex also connected to VSCodium against the same workspace. In practice:
 
-- The player reports plans, discoveries, route changes, or newly unlocked achievements in ordinary language.
-- Codex inspects the repository and any supplied evidence, then updates the minimal guidance and progress records needed to keep the achievement run coherent.
-- Achievement screenshots can be stored in `evidence/` and linked from the checklist when confirmation matters.
-- Codex commits and pushes accepted documentation changes to GitHub, leaving the repository as the durable source of progress and strategy.
+- The player gives natural-language updates about plans, route changes, useful discoveries, and achievement unlocks.
+- I inspect repository state and supplied screenshots, research constraints when needed, and determine which records or strategy guidance actually need to change.
+- I store relevant proof in `evidence/`, link it from progress records where useful, and keep the route documentation focused on completing achievements efficiently.
+- I commit and push accepted changes to GitHub, so the repository itself becomes the durable record of the test and the active plan.
 
-Interaction is primarily through Codex in a terminal / Bash workflow, with Codex also connected to VSCodium for editor-based access to the same workspace. This is useful for testing whether one assistant can carry context across evolving gameplay decisions, local files, evidence images, and GitHub publication without turning the repository into a full play log.
+## Test Environment
+
+Both sides of this evaluation run on Linux: the player is running Skyrim Special Edition through Steam/Proton on Linux, and is interacting with Codex/ChatGPT from the same Linux environment.
+
+Recorded system context from [fastfetch evidence](evidence/fastfetch.png):
+
+- OS: Pop!_OS 22.04 LTS x86_64
+- Kernel: Linux 6.17.9-76061709-generic
+- Desktop/session: GNOME 42.9 with Mutter (X11)
+- Shell/terminal: Bash 5.3.16 in GNOME Terminal 3.44.0
+- Hardware: Intel Core i5-11600KF, AMD Radeon RX 6600 XT, 64 GiB RAM
+
+For the Skyrim task itself, the repository should record achievement progress and preserve advice for missable or risky objectives, not log every quest step.
 
 ## Current Route
 
