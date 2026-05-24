@@ -12,9 +12,11 @@ Working guide for finishing all Steam achievements in a no-mod Skyrim Special Ed
 - Planned next phase: **Dawnguard / Vampire Lord**, targeting:
   - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
   - [ ] **Vampire Mastered** - acquire 11 vampire perks before leaving vampirism behind
+  - Prepare **Soul Tear** during `Beyond Death`; complete it after the late **Dragon Rising** gateway enables shout use
 - Planned after Dawnguard: **Companions / Werewolf**, targeting:
   - [ ] **Blood Oath** and **Glory of the Dead**
   - [ ] **Werewolf Mastered** - acquire 11 werewolf perks and remain a werewolf afterward
+- Final storyline: the remaining base main quest, after the other faction and DLC cleanup.
 - Paused objective: **Oblivion Walker**, currently `1 / 15` valid artifacts with the **Mace of Molag Bal** secured.
 
 `Hitting the Books` is progress toward the College achievements, but does not itself unlock a Steam achievement.
@@ -28,6 +30,8 @@ Finish vampire-related achievement work before becoming a werewolf:
 3. Start the Companions, obtain lycanthropy through **Blood Oath**, finish **Glory of the Dead** and **Werewolf Mastered**, and remain a werewolf.
 
 Why: changing from vampire to werewolf clears vampirism and avoids carrying the sunlight penalties afterward. Permanent lycanthropy prevents Rested/Well Rested sleep bonuses, but that is not an achievement blocker. Keeping this order also avoids relying on Aela's limited lycanthropy restoration after switching forms.
+
+The main quest can remain the final major storyline, with one late exception: complete through **Dragon Rising** before dragon/shout-dependent cleanup. That unlocks normal dragon souls and shout use needed for **Soul Tear**, Dragonborn dragon riding, **Dragon Hunter**, **Thu'um Master**, and **Legend**. **The Way of the Voice** may enter the journal at that point; leave it incomplete until the final storyline pass.
 
 ## Useful Documents
 

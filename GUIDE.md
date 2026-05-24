@@ -38,14 +38,15 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | Phase | Objective cluster | Achievements targeted |
 |---|---|---|
 | 1 | Finish the active College route | **Revealing the Unseen**, **The Eye of Magnus** |
-| 2 | Dawnguard as a Vampire Lord | **Awakening**, **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Soul Tear**, **Auriel's Bow**, **Lost to the Ages** |
+| 2 | Dawnguard as a Vampire Lord | **Awakening**, **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
 | 3 | Companions and permanent werewolf state | **Blood Oath**, **Glory of the Dead**, **Werewolf Mastered** |
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
-| 6 | Main quest and dragon/shout work | **The Way of the Voice**, **Diplomatic Immunity**, **Alduin's Wall**, **Elder Knowledge**, **The Fallen**, **Dragonslayer**, **Dragon Hunter**, **Words of Power**, **Thu'um Master**, **Legend** |
-| 7 | Hearthfire construction | **Proud Parent**, **Architect**, **Land Baron**, **Master Architect** |
-| 8 | Dragonborn / Solstheim | **Outlander**, **The Temple of Miraak**, **The Path of Knowledge**, **At the Summit of Apocrypha**, **Dragon Aspect**, **Hidden Knowledge**, **Stalhrim Crafter**, **Dragonrider**, **Raven Rock Owner**, **Solstheim Explorer** |
-| 9 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Standing Stones**, **Wanted**, **Married**, **Delver**, **Explorer**, **Reader** |
+| 6 | Hearthfire construction | **Proud Parent**, **Architect**, **Land Baron**, **Master Architect** |
+| 7 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Standing Stones**, **Wanted**, **Married**, **Delver**, **Explorer**, **Reader** |
+| 8 | Late `Dragon Rising` gateway and deferred Dawnguard shout | **Soul Tear** |
+| 9 | Dragonborn / Solstheim with dragons enabled | **Outlander**, **The Temple of Miraak**, **The Path of Knowledge**, **At the Summit of Apocrypha**, **Dragon Aspect**, **Hidden Knowledge**, **Stalhrim Crafter**, **Dragonrider**, **Raven Rock Owner**, **Solstheim Explorer** |
+| 10 | Finish the remaining base main quest last, then mop up dragon counters | **The Way of the Voice**, **Diplomatic Immunity**, **Alduin's Wall**, **Elder Knowledge**, **The Fallen**, **Dragonslayer**, **Dragon Hunter**, **Words of Power**, **Thu'um Master**, **Legend** |
 
 ## Phase 1: Finish College Of Winterhold
 
@@ -90,7 +91,7 @@ Do not directly add Vampire Lord perks through console. The achievement is award
 
 ### Soul Tear
 
-During **Beyond Death**, speak with Durnehviir after the encounter in the Soul Cairn and obtain his summon shout.
+During **Beyond Death**, speak with Durnehviir after the encounter in the Soul Cairn and obtain his summon shout. Since this route leaves the base main quest until late, save the actual summoning lessons for Phase 8 after completing **Dragon Rising**, which enables shout use.
 
 1. Unlock all three words of **Summon Durnehviir** with dragon souls.
 2. Summon him in Tamriel in a sufficiently open area.
@@ -99,7 +100,7 @@ During **Beyond Death**, speak with Durnehviir after the encounter in the Soul C
 
 He teaches one word per successful summon, so this requires three summons outside the Soul Cairn.
 
-If random dragons are still delayed and you lack the three souls required to activate **Summon Durnehviir**, adding soul currency is a reasonable shortcut:
+After completing **Dragon Rising**, if you lack the three souls required to activate **Summon Durnehviir**, adding soul currency is a reasonable shortcut:
 
 ```text
 player.modav dragonsouls 3
@@ -127,7 +128,7 @@ Complete **Lost to the Ages** during mainland Dawnguard travel or immediately af
 
 The **Aetherial Crown** is the most generally useful reward because it permits two active Standing Stone effects, but the achievement only requires finishing the quest.
 
-Expected gain: **7 achievements**.
+Expected gain during this phase: **6 achievements**. **Soul Tear** is prepared here and completed in Phase 8 after the late `Dragon Rising` gateway.
 
 ## Phase 3: Companions And Werewolf Mastered
 
@@ -183,35 +184,7 @@ Use combat/travel cheats freely. Do not use quest-stage completion commands for 
 
 Expected gain: **3 achievements**.
 
-## Phase 6: Main Quest, Dragons, Shouts, And Legend
-
-Complete the base main quest naturally:
-
-1. **The Way of the Voice**
-2. **Diplomatic Immunity**
-3. **Alduin's Wall**
-4. **Elder Knowledge**
-5. **The Fallen**
-6. **Dragonslayer**
-
-### Dragon and shout counters
-
-- Once dragons are active, kill actual dragons and absorb their souls until **Dragon Hunter** unlocks at 20 absorbed souls.
-- Unlock all three words of any shout for **Words of Power**; main quest and DLC progression should supply this naturally.
-- Unlock at least one word in 20 different shouts for **Thu'um Master** while clearing word walls during faction, Daedric, dungeon, and DLC travel.
-
-Do not rely on manually adding souls or words for these counter achievements. Use `tgm`, fast travel to dragon lairs, and ordinary absorption/word-wall interactions.
-
-### Legend
-
-Legendary Dragons begin appearing normally at character level **78**.
-
-- Since **Master** is already complete, use repeated `player.advskill <skill> <amount>` plus normal level-ups to accelerate character level to 78.
-- After reaching the required level, travel between outdoor dragon locations until a Legendary Dragon spawns, then defeat it normally with `tgm` if desired.
-
-Expected gain: **10 achievements**.
-
-## Phase 7: Hearthfire In One Material Dump
+## Phase 6: Hearthfire In One Material Dump
 
 Handle all Hearthfire construction together.
 
@@ -228,7 +201,46 @@ Console optimization:
 
 Expected gain: **4 achievements**.
 
-## Phase 8: Dragonborn And Solstheim
+## Phase 7: Counter And Miscellaneous Cleanup
+
+Most of these will advance passively during the route above. Inspect the in-game General Stats after the major faction sweeps, then target what remains; any residual exploration/clearing can also wait until after Solstheim.
+
+### Fast one-offs
+
+| Achievement | Fast completion |
+|---|---|
+| **Hard Worker** | Chop wood once, mine ore once, and cook one recipe. |
+| **Wanted** | Commit a minor witnessed crime, accept jail, then escape from the jail cell instead of serving time. |
+| **Married** | Obtain/wear an Amulet of Mara, arrange a marriage, attend the ceremony. |
+| **Standing Stones** | Visit all 13 Skyrim Standing Stones; use fast travel or `tcl` for traversal. |
+
+### Passive counters to mop up
+
+| Achievement | Efficient approach |
+|---|---|
+| **Sideways** | Complete short qualifying side quests until the journal statistic reaches 10. Black Book side quests do not count for this achievement. |
+| **Hero of the People** | Finish short miscellaneous objectives encountered in towns and during travel until 50. |
+| **Explorer** | Discover map markers while doing every phase; sweep missing roadside markers only at the end. |
+| **Delver** | Clear boss-bearing dungeons while traveling for quests and word walls; mop up compact caves/camps at the end. `Angarvunde` and `Mistwatch` may display as cleared without counting toward this achievement. |
+| **Reader** | Open every skill book encountered in dungeons, homes, guild locations, and DLC areas; use a skill-book location list only for final cleanup. |
+
+Expected gain: **up to 9 achievements**; any counters not finished yet remain cleanup after later phases.
+
+## Phase 8: Late Dragon Gateway And Deferred Soul Tear
+
+Keeping the base main quest for last is compatible with the route, but not with keeping dragons disabled permanently. Dragon shouts and normal soul absorption are gated behind completion of **Dragon Rising**.
+
+Late in the run:
+
+1. Complete only the base-main-quest prerequisites through **Dragon Rising**.
+2. Leave **The Way of the Voice** incomplete once it becomes available.
+3. Activate and summon Durnehviir three times in Tamriel to finish **Soul Tear**.
+
+Do not grind dragon/shout counters yet: Dragonborn and the final base-main-quest run both add natural progress.
+
+Expected gain: **1 achievement**, deferred **Soul Tear**.
+
+## Phase 9: Dragonborn And Solstheim
 
 Do the Dragonborn main quest as a concentrated Solstheim sweep.
 
@@ -250,46 +262,54 @@ Do the Dragonborn main quest as a concentrated Solstheim sweep.
 
 Use `tgm`, `tcl`, added crafting materials, and travel acceleration. Do not kill Skaal NPCs casually: losing Deor or Fanari before the stalhrim quest is complete can make **Stalhrim Crafter** unobtainable on that save.
 
+Kill dragons and visit word walls naturally while doing this phase. The progress counts toward the cleanup after the final base main quest.
+
 Expected gain: **10 achievements**.
 
-## Phase 9: Counter And Miscellaneous Cleanup
+## Phase 10: Finish The Base Main Quest Last And Mop Up Dragons
 
-Most of these will advance passively during the route above. Inspect the in-game General Stats only after the major quest and DLC sweeps, then target what remains.
+After faction, DLC, and construction cleanup is complete, finish the remaining base main quest as the final storyline:
 
-### Fast one-offs
+1. **The Way of the Voice**
+2. **Diplomatic Immunity**
+3. **Alduin's Wall**
+4. **Elder Knowledge**
+5. **The Fallen**
+6. **Dragonslayer**
 
-| Achievement | Fast completion |
-|---|---|
-| **Hard Worker** | Chop wood once, mine ore once, and cook one recipe. |
-| **Wanted** | Commit a minor witnessed crime, accept jail, then escape from the jail cell instead of serving time. |
-| **Married** | Obtain/wear an Amulet of Mara, arrange a marriage, attend the ceremony. |
-| **Standing Stones** | Visit all 13 Skyrim Standing Stones; use fast travel or `tcl` for traversal. |
+Because the Civil War was already completed in Phase 5, there is no risk of the main-quest peace conference skipping the `War Hero` capture requirement.
 
-### Passive counters to mop up
+### Final dragon and shout counters
 
-| Achievement | Efficient approach |
-|---|---|
-| **Sideways** | Complete short qualifying side quests until the journal statistic reaches 10. Black Book side quests do not count for this achievement. |
-| **Hero of the People** | Finish short miscellaneous objectives encountered in towns and during travel until 50. |
-| **Explorer** | Discover map markers while doing every phase; sweep missing roadside markers only at the end. |
-| **Delver** | Clear boss-bearing dungeons while traveling for quests and word walls; mop up compact caves/camps at the end. `Angarvunde` and `Mistwatch` may display as cleared without counting toward this achievement. |
-| **Reader** | Open every skill book encountered in dungeons, homes, guild locations, and DLC areas; use a skill-book location list only for final cleanup. |
+- Kill actual dragons and absorb their souls until **Dragon Hunter** unlocks at 20 absorbed souls.
+- Unlock all three words of any shout for **Words of Power**; story and DLC progression may already have awarded this.
+- Unlock at least one word in 20 different shouts for **Thu'um Master**; only finish any missing word-wall sweep after completing the story routes.
 
-Expected gain: **9 achievements**.
+Do not rely on manually adding souls or words for these counter achievements. Use `tgm`, fast travel to dragon lairs, and ordinary absorption/word-wall interactions.
+
+### Legend
+
+Legendary Dragons begin appearing normally at character level **78**.
+
+- Since **Master** is already complete, use repeated `player.advskill <skill> <amount>` plus normal level-ups to accelerate character level to 78.
+- Travel between outdoor dragon locations until a Legendary Dragon spawns, then defeat it normally with `tgm` if desired.
+
+Expected gain: **10 achievements**, reduced by any dragon/shout counter achievements that unlock naturally during Dragonborn.
 
 ## Achievement Count Check
 
 | Phase | Unlocks |
 |---|---:|
 | College | 2 |
-| Dawnguard / Vampire | 7 |
+| Dawnguard / Vampire | 6 |
 | Companions / Werewolf | 3 |
 | Oblivion Walker | 1 |
 | Civil War | 3 |
-| Main quest / dragons / shouts / Legend | 10 |
 | Hearthfire | 4 |
-| Dragonborn | 10 |
 | Miscellaneous cleanup | 9 |
+| Late `Dragon Rising` gateway / Soul Tear | 1 |
+| Dragonborn | 10 |
+| Remaining base main quest finale / dragon cleanup | 10 |
 | **Total remaining** | **49** |
 
 ## References
@@ -302,6 +322,7 @@ Expected gain: **9 achievements**.
 - [UESP: Auriel's Bow](https://en.uesp.net/wiki/Skyrim:Auriel%27s_Bow) - special-power unlock route and Bloodcursed arrow caveat.
 - [UESP: Dragon Shouts](https://en.uesp.net/wiki/Skyrim:Dragon_Shouts) - shout achievement counting.
 - [UESP: Dragon](https://en.uesp.net/wiki/Skyrim:Dragon) - Legendary Dragon level requirement.
+- [UESP: Bounty: Dragon](https://en.uesp.net/wiki/Skyrim:Bounty:_Dragon) - `Dragon Rising` as the ordinary dragon-spawn gate.
 - [UESP: Dungeons](https://en.uesp.net/wiki/Skyrim:Dungeons) - `Delver` counting rules.
 - [UESP: Construction](https://en.uesp.net/wiki/Skyrim:Construction) - Hearthfire building achievement requirements.
 - [UESP: Stalhrim](https://en.uesp.net/wiki/Skyrim:Stalhrim) - `Stalhrim Crafter` failure condition.
