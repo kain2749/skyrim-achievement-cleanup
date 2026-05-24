@@ -13,11 +13,13 @@ Quest trigger path: **Under New Management** after all four city influence jobs 
 
 - [ ] **Whiterun**
   - [ ] Small jobs complete: `3 / 5`
+  - [ ] Active job pending: **Whiterun Numbers Job**
   - [ ] Special job unlocked: **Imitation Amnesty**
   - [ ] Special job complete
 
 - [ ] **Markarth**
   - [ ] Small jobs complete: `2 / 5`
+  - [ ] Active job pending: **Markarth Burglary Job**
   - [ ] Special job unlocked: **Silver Lining**
   - [ ] Special job complete
 
@@ -41,12 +43,13 @@ Reload/reroll jobs that target already-finished cities unless just farming gold.
 
 Current known active jobs:
 
-- None.
+- **Whiterun Numbers Job** — keep. Counts toward Whiterun `4 / 5` when turned in.
+- **Markarth Burglary Job** — keep. Counts toward Markarth `3 / 5` when turned in.
 
 Next useful jobs:
 
-- **Whiterun** — keep until `5 / 5`; needs 2 more small jobs, then **Imitation Amnesty**.
-- **Markarth** — keep until `5 / 5`; needs 3 more small jobs, then **Silver Lining**.
+- **Whiterun** — keep until `5 / 5`; needs 2 more small jobs before current turn-in, then **Imitation Amnesty**.
+- **Markarth** — keep until `5 / 5`; needs 3 more small jobs before current turn-in, then **Silver Lining**.
 - **Solitude** — restored. No more Solitude jobs needed.
 - **Windhelm** — restored. No more Windhelm jobs needed.
 
