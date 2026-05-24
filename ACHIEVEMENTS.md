@@ -16,6 +16,8 @@ Completed achievement total: **26 / 75**. Update this list when an achievement u
 - [ ] **Blood Oath** — Become a member of the Circle
 - [ ] **Glory of the Dead** — Complete "Glory of the Dead"
 
+Planned after Dawnguard so the run can end in werewolf form and pair this questline with **Werewolf Mastered**.
+
 ## Base / College
 
 - [ ] **Revealing the Unseen** — Complete "Revealing the Unseen"
@@ -76,6 +78,8 @@ Current progress: on **Hitting the Books**; no College achievement has been repo
 - [ ] **Vampire Mastered** — Acquire 11 vampire perks
 - [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
+
+Planned immediately after the College questline. Complete **Vampire Mastered** before starting the Companions/werewolf phase.
 
 ## Hearthfire
 

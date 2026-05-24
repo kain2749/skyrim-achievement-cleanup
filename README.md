@@ -9,14 +9,25 @@ Working guide for finishing all Steam achievements in a no-mod Skyrim Special Ed
 - Current goal: finish the College achievements:
   - [ ] **Revealing the Unseen** - complete "Revealing the Unseen"
   - [ ] **The Eye of Magnus** - complete "The Eye of Magnus"
-- Planned next faction: **Companions**, targeting:
-  - [ ] **Blood Oath** - become a member of the Circle
-  - [ ] **Glory of the Dead** - complete "Glory of the Dead"
+- Planned next phase: **Dawnguard / Vampire Lord**, targeting:
+  - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
+  - [ ] **Vampire Mastered** - acquire 11 vampire perks before leaving vampirism behind
+- Planned after Dawnguard: **Companions / Werewolf**, targeting:
+  - [ ] **Blood Oath** and **Glory of the Dead**
+  - [ ] **Werewolf Mastered** - acquire 11 werewolf perks and remain a werewolf afterward
 - Paused objective: **Oblivion Walker**, currently `1 / 15` valid artifacts with the **Mace of Molag Bal** secured.
 
 `Hitting the Books` is progress toward the College achievements, but does not itself unlock a Steam achievement.
 
-When starting the Companions route, becoming a werewolf for **Blood Oath** also opens progress toward **Werewolf Mastered**. Avoid curing lycanthropy until that perk grind has either been completed or deliberately deferred.
+## Transformation Order
+
+Finish vampire-related achievement work before becoming a werewolf:
+
+1. Finish the College of Winterhold achievements.
+2. Complete Dawnguard and **Vampire Mastered** while vampire form is useful.
+3. Start the Companions, obtain lycanthropy through **Blood Oath**, finish **Glory of the Dead** and **Werewolf Mastered**, and remain a werewolf.
+
+Why: changing from vampire to werewolf clears vampirism and avoids carrying the sunlight penalties afterward. Permanent lycanthropy prevents Rested/Well Rested sleep bonuses, but that is not an achievement blocker. Keeping this order also avoids relying on Aela's limited lycanthropy restoration after switching forms.
 
 ## Useful Documents
 
