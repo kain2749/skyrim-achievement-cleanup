@@ -43,7 +43,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
 | 6 | Hearthfire construction | **Proud Parent**, **Architect**, **Land Baron**, **Master Architect** |
-| 7 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Standing Stones**, **Wanted**, **Married**, **Delver**, **Explorer** |
+| 7 | Counters and miscellaneous cleanup | **Sideways**, **Hero of the People**, **Hard Worker**, **Wanted**, **Married**, **Delver** |
 | 8 | Late `Dragon Rising` gateway and deferred Dawnguard shout | **Soul Tear** |
 | 9 | Dragonborn / Solstheim with dragons enabled | **Outlander**, **The Temple of Miraak**, **The Path of Knowledge**, **At the Summit of Apocrypha**, **Dragon Aspect**, **Hidden Knowledge**, **Stalhrim Crafter**, **Dragonrider**, **Raven Rock Owner**, **Solstheim Explorer** |
 | 10 | Finish the remaining base main quest last, then mop up dragon counters | **The Way of the Voice**, **Diplomatic Immunity**, **Alduin's Wall**, **Elder Knowledge**, **The Fallen**, **Dragonslayer**, **Dragon Hunter**, **Words of Power**, **Thu'um Master**, **Legend** |
@@ -208,7 +208,6 @@ Most of these will advance passively during the route above. Inspect the in-game
 | **Hard Worker** | Chop wood once, mine ore once, and cook one recipe. |
 | **Wanted** | Commit a minor witnessed crime, accept jail, then escape from the jail cell instead of serving time. |
 | **Married** | Obtain/wear an Amulet of Mara, arrange a marriage, attend the ceremony. |
-| **Standing Stones** | Visit all 13 Skyrim Standing Stones; use fast travel or `tcl` for traversal. |
 
 ### Passive counters to mop up
 
@@ -216,10 +215,11 @@ Most of these will advance passively during the route above. Inspect the in-game
 |---|---|
 | **Sideways** | Complete short qualifying side quests until the journal statistic reaches 10. Black Book side quests do not count for this achievement. |
 | **Hero of the People** | Finish short miscellaneous objectives encountered in towns and during travel until 50. |
-| **Explorer** | Discover map markers while doing every phase; sweep missing roadside markers only at the end. |
 | **Delver** | Clear boss-bearing dungeons while traveling for quests and word walls; mop up compact caves/camps at the end. `Angarvunde` and `Mistwatch` may display as cleared without counting toward this achievement. |
 
-Expected gain: **up to 8 achievements**; any counters not finished yet remain cleanup after later phases.
+Already complete during earlier play: **Standing Stones** and **Explorer**.
+
+Expected gain remaining: **up to 6 achievements**; any counters not finished yet remain cleanup after later phases.
 
 ## Phase 8: Late Dragon Gateway And Deferred Soul Tear
 
@@ -300,11 +300,11 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Oblivion Walker | 1 |
 | Civil War | 3 |
 | Hearthfire | 4 |
-| Miscellaneous cleanup | 8 |
+| Miscellaneous cleanup | 6 |
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **46** |
+| **Total remaining** | **44** |
 
 ## References
 
