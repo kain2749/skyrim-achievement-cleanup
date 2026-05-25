@@ -38,7 +38,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | Phase | Objective cluster | Achievements targeted |
 |---|---|---|
 | Completed | College route | **The Eye of Magnus** |
-| 2 | Dawnguard as a Vampire Lord | **Awakening**, **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
+| 2 | Dawnguard as a Vampire Lord | **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
 | 3 | Companions and permanent werewolf state | **Blood Oath**, **Glory of the Dead**, **Werewolf Mastered** |
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
@@ -60,11 +60,11 @@ Do this before the Companions so vampire form is disposable and the run can end 
 
 ### Immediate next steps
 
-1. Start **Dawnguard** by speaking to Isran at Fort Dawnguard in Dayspring Canyon, southeast of Riften. A guard rumor or Durak can add the location first, but walking there also works.
-2. Complete **Awakening**: investigate Dimhollow Crypt, release Serana, and talk to her. This unlocks the first achievement for this phase.
-3. During **Bloodline**, escort Serana to Castle Volkihar.
-4. Accept Lord Harkon's offer of blood. This locks the Dawnguard storyline choice to the Volkihar side and immediately gives the Vampire Lord form needed for **Vampire Mastered**.
-5. From that point onward, make kills in Vampire Lord form with `Vampiric Drain` or a power bite whenever convenient; finish the dedicated perk grind before replacing vampirism with Companions lycanthropy.
+Completed: **Awakening** ([evidence](evidence/awakening.png)).
+
+1. During **Bloodline**, escort Serana to Castle Volkihar.
+2. Accept Lord Harkon's offer of blood. This locks the Dawnguard storyline choice to the Volkihar side and immediately gives the Vampire Lord form needed for **Vampire Mastered**.
+3. From that point onward, make kills in Vampire Lord form with `Vampiric Drain` or a power bite whenever convenient; finish the dedicated perk grind before replacing vampirism with Companions lycanthropy.
 
 ### Main Dawnguard path
 
@@ -293,7 +293,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 
 | Phase | Unlocks |
 |---|---:|
-| Dawnguard / Vampire | 6 |
+| Dawnguard / Vampire | 5 |
 | Companions / Werewolf | 3 |
 | Oblivion Walker | 1 |
 | Civil War | 3 |
@@ -302,7 +302,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **42** |
+| **Total remaining** | **41** |
 
 ## References
 

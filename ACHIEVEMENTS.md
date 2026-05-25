@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **33 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **34 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -68,7 +68,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 
 ## Dawnguard
 
-- [ ] **Awakening** — Complete "Awakening"
+- [x] **Awakening** — Complete "Awakening" ([evidence](evidence/awakening.png))
 - [ ] **Beyond Death** — Complete "Beyond Death"
 - [ ] **Kindred Judgement** — Complete "Kindred Judgment"
 - [ ] **Lost to the Ages** — Complete "Lost to the Ages"
@@ -79,7 +79,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
 
-Current phase. Start at Fort Dawnguard, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete **Vampire Mastered** before starting the Companions/werewolf phase.
+Current phase. Escort Serana to Castle Volkihar, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete **Vampire Mastered** before starting the Companions/werewolf phase.
 
 ## Hearthfire
 
