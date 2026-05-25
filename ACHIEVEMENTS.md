@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **31 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **32 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -47,7 +47,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [ ] **Wanted** — Escape from jail
 - [ ] **Married** — Get married
 - [x] **Master Criminal** — Bounty of 1000 gold in all nine holds
-- [ ] **Delver** — Clear 50 dungeons
+- [x] **Delver** — Clear 50 dungeons ([evidence](evidence/delver.png))
 - [x] **Explorer** — Discover 100 locations ([evidence](evidence/explorer_and_standing_stones.png))
 - [x] **Reader** — Read 50 skill books ([evidence](evidence/reader.png))
 
