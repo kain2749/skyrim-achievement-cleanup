@@ -41,10 +41,9 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **27 / 75**
-- Current quest: **Hitting the Books** in the College of Winterhold questline
+- Completed: **28 / 75**
+- Current progress: **Revealing the Unseen** completed in the College of Winterhold questline
 - Current goal: finish the College achievements:
-  - [ ] **Revealing the Unseen** - complete "Revealing the Unseen"
   - [ ] **The Eye of Magnus** - complete "The Eye of Magnus"
 - Planned next phase: **Dawnguard / Vampire Lord**, targeting:
   - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
@@ -56,7 +55,7 @@ For the Skyrim task itself, the repository should record achievement progress an
 - Final storyline: the remaining base main quest, after the other faction and DLC cleanup.
 - Paused objective: **Oblivion Walker**, currently `1 / 15` valid artifacts with the **Mace of Molag Bal** secured.
 
-`Hitting the Books` is progress toward the College achievements, but does not itself unlock a Steam achievement.
+**Revealing the Unseen** has been confirmed by screenshot evidence; continue the College route normally toward **The Eye of Magnus**.
 
 ## Transformation Order
 
