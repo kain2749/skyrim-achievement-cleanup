@@ -41,11 +41,9 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **28 / 75**
-- Current progress: **Revealing the Unseen** completed in the College of Winterhold questline
-- Current goal: finish the College achievements:
-  - [ ] **The Eye of Magnus** - complete "The Eye of Magnus"
-- Planned next phase: **Dawnguard / Vampire Lord**, targeting:
+- Completed: **29 / 75**
+- Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
+- Current phase: **Dawnguard / Vampire Lord**, targeting:
   - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
   - [ ] **Vampire Mastered** - acquire 11 vampire perks before leaving vampirism behind
   - Prepare **Soul Tear** during `Beyond Death`; complete it after the late **Dragon Rising** gateway enables shout use
@@ -55,7 +53,7 @@ For the Skyrim task itself, the repository should record achievement progress an
 - Final storyline: the remaining base main quest, after the other faction and DLC cleanup.
 - Paused objective: **Oblivion Walker**, currently `1 / 15` valid artifacts with the **Mace of Molag Bal** secured.
 
-**Revealing the Unseen** has been confirmed by screenshot evidence; continue the College route normally toward **The Eye of Magnus**.
+**The Eye of Magnus** has been confirmed by screenshot evidence; begin the Dawnguard route while preserving the planned vampire-to-werewolf order.
 
 ## Transformation Order
 

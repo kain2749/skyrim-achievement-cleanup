@@ -10,7 +10,7 @@ This achievement is not just "finish the Daedric quests." Some Daedric quests ha
 - [x] **Daedric Influence** popped
 - [ ] **Oblivion Walker** popped
 - Artifact count: `1 / 15`
-- This objective is paused while the College of Winterhold questline is active.
+- This objective is paused while the Dawnguard / Vampire Lord phase is active.
 
 ## Do not count
 

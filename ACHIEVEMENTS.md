@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **28 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **29 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -21,9 +21,9 @@ Planned after Dawnguard so the run can end in werewolf form and pair this questl
 ## Base / College
 
 - [x] **Revealing the Unseen** — Complete "Revealing the Unseen" ([evidence](evidence/revealing_the_unseen.png))
-- [ ] **The Eye of Magnus** — Complete "The Eye of Magnus"
+- [x] **The Eye of Magnus** — Complete "The Eye of Magnus" ([evidence](evidence/the_eye_of_magnus.png))
 
-Current progress: **Revealing the Unseen** confirmed complete; continue toward **The Eye of Magnus**.
+Current progress: College of Winterhold achievements complete; proceed to Dawnguard.
 
 ## Base / Thieves Guild
 

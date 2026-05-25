@@ -37,7 +37,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 
 | Phase | Objective cluster | Achievements targeted |
 |---|---|---|
-| 1 | Finish the active College route | **The Eye of Magnus** |
+| Completed | College route | **The Eye of Magnus** |
 | 2 | Dawnguard as a Vampire Lord | **Awakening**, **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
 | 3 | Companions and permanent werewolf state | **Blood Oath**, **Glory of the Dead**, **Werewolf Mastered** |
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
@@ -48,20 +48,11 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | 9 | Dragonborn / Solstheim with dragons enabled | **Outlander**, **The Temple of Miraak**, **The Path of Knowledge**, **At the Summit of Apocrypha**, **Dragon Aspect**, **Hidden Knowledge**, **Stalhrim Crafter**, **Dragonrider**, **Raven Rock Owner**, **Solstheim Explorer** |
 | 10 | Finish the remaining base main quest last, then mop up dragon counters | **The Way of the Voice**, **Diplomatic Immunity**, **Alduin's Wall**, **Elder Knowledge**, **The Fallen**, **Dragonslayer**, **Dragon Hunter**, **Words of Power**, **Thu'um Master**, **Legend** |
 
-## Phase 1: Finish College Of Winterhold
+## Completed: College Of Winterhold
 
-Current position: **Revealing the Unseen** achievement confirmed complete.
+Current position: **The Eye of Magnus** achievement confirmed complete by screenshot evidence.
 
-Continue the College questline normally:
-
-1. Finish **Containment**, **The Staff of Magnus**, and **The Eye of Magnus** to unlock the Arch-Mage achievement.
-
-Efficiency notes:
-
-- Use `tgm`, carry-weight boosts, `tcl` for stuck terrain, and fast travel freely.
-- Do not `setstage` the remaining College quests; **The Eye of Magnus** is a quest-completion trigger.
-
-Expected gain: **1 achievement**.
+No further College achievement work remains.
 
 ## Phase 2: Dawnguard And Vampire Mastered
 
@@ -297,7 +288,6 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 
 | Phase | Unlocks |
 |---|---:|
-| College | 1 |
 | Dawnguard / Vampire | 6 |
 | Companions / Werewolf | 3 |
 | Oblivion Walker | 1 |
@@ -307,7 +297,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **47** |
+| **Total remaining** | **46** |
 
 ## References
 
