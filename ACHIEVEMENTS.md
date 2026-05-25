@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **36 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **37 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -44,7 +44,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [x] **Thief** — Pick 50 locks and 50 pockets
 - [x] **Snake Tongue** — Successfully persuade, bribe, and intimidate
 - [x] **Standing Stones** — Find 13 Standing Stones ([evidence](evidence/explorer_and_standing_stones.png))
-- [ ] **Wanted** — Escape from jail
+- [x] **Wanted** — Escape from jail ([evidence](evidence/wanted.png))
 - [ ] **Married** — Get married
 - [x] **Master Criminal** — Bounty of 1000 gold in all nine holds
 - [x] **Delver** — Clear 50 dungeons ([evidence](evidence/delver.png))

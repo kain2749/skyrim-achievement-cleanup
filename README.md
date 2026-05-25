@@ -41,9 +41,9 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **36 / 75**
+- Completed: **37 / 75**
 - Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
-- Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png)); **Hero of the People** ([evidence](evidence/hero_of_the_people.png))
+- Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png)); **Hero of the People** ([evidence](evidence/hero_of_the_people.png)); **Wanted** ([evidence](evidence/wanted.png))
 - Current phase: **Dawnguard / Vampire Lord**, targeting:
   - Next action: continue the Volkihar-side storyline toward **Beyond Death**; if current lycanthropy blocks clan progression, accept Vampire Lord form again to finish Dawnguard
   - [x] **Awakening** ([evidence](evidence/awakening.png))
