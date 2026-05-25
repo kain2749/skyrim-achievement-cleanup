@@ -44,6 +44,7 @@ For the Skyrim task itself, the repository should record achievement progress an
 - Completed: **29 / 75**
 - Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
 - Current phase: **Dawnguard / Vampire Lord**, targeting:
+  - Next action: speak to Isran at Fort Dawnguard, complete **Awakening**, then accept Lord Harkon's Vampire Lord offer during **Bloodline**
   - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
   - [ ] **Vampire Mastered** - acquire 11 vampire perks before leaving vampirism behind
   - Prepare **Soul Tear** during `Beyond Death`; complete it after the late **Dragon Rising** gateway enables shout use
@@ -59,8 +60,8 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 Finish vampire-related achievement work before becoming a werewolf:
 
-1. Finish the College of Winterhold achievements.
-2. Complete Dawnguard and **Vampire Mastered** while vampire form is useful.
+1. College of Winterhold achievements are complete.
+2. Start Dawnguard, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete Dawnguard and **Vampire Mastered** while vampire form is useful.
 3. Start the Companions, obtain lycanthropy through **Blood Oath**, finish **Glory of the Dead** and **Werewolf Mastered**, and remain a werewolf.
 
 Why: changing from vampire to werewolf clears vampirism and avoids carrying the sunlight penalties afterward. Permanent lycanthropy prevents Rested/Well Rested sleep bonuses, but that is not an achievement blocker. Keeping this order also avoids relying on Aela's limited lycanthropy restoration after switching forms.

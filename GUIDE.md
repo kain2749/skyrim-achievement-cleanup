@@ -58,12 +58,19 @@ No further College achievement work remains.
 
 Do this before the Companions so vampire form is disposable and the run can end permanently as a werewolf.
 
+### Immediate next steps
+
+1. Start **Dawnguard** by speaking to Isran at Fort Dawnguard in Dayspring Canyon, southeast of Riften. A guard rumor or Durak can add the location first, but walking there also works.
+2. Complete **Awakening**: investigate Dimhollow Crypt, release Serana, and talk to her. This unlocks the first achievement for this phase.
+3. During **Bloodline**, escort Serana to Castle Volkihar.
+4. Accept Lord Harkon's offer of blood. This locks the Dawnguard storyline choice to the Volkihar side and immediately gives the Vampire Lord form needed for **Vampire Mastered**.
+5. From that point onward, make kills in Vampire Lord form with `Vampiric Drain` or a power bite whenever convenient; finish the dedicated perk grind before replacing vampirism with Companions lycanthropy.
+
 ### Main Dawnguard path
 
-1. Begin Dawnguard and complete **Awakening**.
-2. Accept Vampire Lord form when the route offers it; continue the vampire-side storyline.
-3. Complete **Beyond Death**.
-4. Complete **Kindred Judgement**.
+1. Continue the Volkihar-side storyline after accepting Harkon's offer in **Bloodline**.
+2. Complete **Beyond Death**.
+3. Complete **Kindred Judgement**.
 
 ### Vampire Mastered
 
@@ -301,6 +308,8 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 
 ## References
 
+- [UESP: Awakening](https://en.uesp.net/wiki/Skyrim:Awakening) - initial Dawnguard achievement and Dimhollow / Serana sequence.
+- [UESP: Bloodline](https://en.uesp.net/wiki/Skyrim:Bloodline) - Harkon's Vampire Lord offer and faction choice.
 - [UESP: Achievements](https://en.uesp.net/wiki/Skyrim:Achievements) - achievement requirements, console/mod notes, and missable achievement list.
 - [UESP: Vampire Lord](https://en.uesp.net/wiki/Skyrim:Vampire_Lord) - `Vampire Mastered` progression and valid kill behavior.
 - [UESP: Lycanthropy](https://en.uesp.net/wiki/Skyrim:Lycanthropy) - `Werewolf Mastered` progression, feeding behavior, and cure limitations.

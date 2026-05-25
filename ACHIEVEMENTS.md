@@ -79,7 +79,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
 
-Planned immediately after the College questline. Complete **Vampire Mastered** before starting the Companions/werewolf phase.
+Current phase. Start at Fort Dawnguard, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete **Vampire Mastered** before starting the Companions/werewolf phase.
 
 ## Hearthfire
 
