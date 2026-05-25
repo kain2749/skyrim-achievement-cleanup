@@ -41,9 +41,9 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **32 / 75**
+- Completed: **33 / 75**
 - Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
-- Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png))
+- Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png)); **Hero of the People** ([evidence](evidence/hero_of_the_people.png))
 - Current phase: **Dawnguard / Vampire Lord**, targeting:
   - Next action: speak to Isran at Fort Dawnguard, complete **Awakening**, then accept Lord Harkon's Vampire Lord offer during **Bloodline**
   - [ ] **Awakening**, **Beyond Death**, and **Kindred Judgement**
