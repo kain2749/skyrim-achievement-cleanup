@@ -41,14 +41,14 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **34 / 75**
+- Completed: **35 / 75**
 - Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
 - Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png)); **Hero of the People** ([evidence](evidence/hero_of_the_people.png))
 - Current phase: **Dawnguard / Vampire Lord**, targeting:
-  - Next action: escort Serana to Castle Volkihar and accept Lord Harkon's Vampire Lord offer during **Bloodline**
+  - Next action: continue the Volkihar-side storyline toward **Beyond Death**; do not cure Serana before completing **Auriel's Bow**
   - [x] **Awakening** ([evidence](evidence/awakening.png))
   - [ ] **Beyond Death** and **Kindred Judgement**
-  - [ ] **Vampire Mastered** - acquire 11 vampire perks before leaving vampirism behind
+  - [x] **Vampire Mastered** ([evidence](evidence/vampire_mastered.png))
   - Prepare **Soul Tear** during `Beyond Death`; complete it after the late **Dragon Rising** gateway enables shout use
 - Planned after Dawnguard: **Companions / Werewolf**, targeting:
   - [ ] **Blood Oath** and **Glory of the Dead**
@@ -63,7 +63,7 @@ For the Skyrim task itself, the repository should record achievement progress an
 Finish vampire-related achievement work before becoming a werewolf:
 
 1. College of Winterhold achievements are complete.
-2. Start Dawnguard, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete Dawnguard and **Vampire Mastered** while vampire form is useful.
+2. Complete the remaining Dawnguard achievements, keeping Serana a vampire until **Auriel's Bow** is complete; **Vampire Mastered** is already done.
 3. Start the Companions, obtain lycanthropy through **Blood Oath**, finish **Glory of the Dead** and **Werewolf Mastered**, and remain a werewolf.
 
 Why: changing from vampire to werewolf clears vampirism and avoids carrying the sunlight penalties afterward. Permanent lycanthropy prevents Rested/Well Rested sleep bonuses, but that is not an achievement blocker. Keeping this order also avoids relying on Aela's limited lycanthropy restoration after switching forms.

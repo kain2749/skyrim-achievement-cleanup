@@ -38,7 +38,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 | Phase | Objective cluster | Achievements targeted |
 |---|---|---|
 | Completed | College route | **The Eye of Magnus** |
-| 2 | Dawnguard as a Vampire Lord | **Beyond Death**, **Kindred Judgement**, **Vampire Mastered**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
+| 2 | Dawnguard as a Vampire Lord | **Beyond Death**, **Kindred Judgement**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
 | 3 | Companions and permanent werewolf state | **Blood Oath**, **Glory of the Dead**, **Werewolf Mastered** |
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
@@ -56,15 +56,15 @@ No further College achievement work remains.
 
 ## Phase 2: Dawnguard And Vampire Mastered
 
-Do this before the Companions so vampire form is disposable and the run can end permanently as a werewolf.
+Finish this phase before the Companions so the run can end permanently as a werewolf. **Vampire Mastered** is complete, but retain the vampire-side Dawnguard setup until **Auriel's Bow** is complete.
 
 ### Immediate next steps
 
-Completed: **Awakening** ([evidence](evidence/awakening.png)).
+Completed: **Awakening** ([evidence](evidence/awakening.png)) and **Vampire Mastered** ([evidence](evidence/vampire_mastered.png)).
 
-1. During **Bloodline**, escort Serana to Castle Volkihar.
-2. Accept Lord Harkon's offer of blood. This locks the Dawnguard storyline choice to the Volkihar side and immediately gives the Vampire Lord form needed for **Vampire Mastered**.
-3. From that point onward, make kills in Vampire Lord form with `Vampiric Drain` or a power bite whenever convenient; finish the dedicated perk grind before replacing vampirism with Companions lycanthropy.
+1. Continue the Volkihar-side storyline toward **Beyond Death** and **Kindred Judgement**.
+2. Do not cure Serana before using **Auriel's Bow** with Bloodcursed Elven Arrows to unlock its achievement.
+3. After the remaining Dawnguard objectives are complete, let Companions lycanthropy replace vampirism.
 
 ### Main Dawnguard path
 
@@ -72,9 +72,9 @@ Completed: **Awakening** ([evidence](evidence/awakening.png)).
 2. Complete **Beyond Death**.
 3. Complete **Kindred Judgement**.
 
-### Vampire Mastered
+### Vampire Mastered - Complete
 
-While you have Vampire Lord form, acquire all 11 vampire perks.
+Confirmed complete by screenshot evidence. The following notes are retained only as a record of the completed method:
 
 - Vampire perk progress comes from killing valid living targets with Vampire Lord `Vampiric Drain` or a power bite.
 - The total grind is **165 valid kills**.
@@ -124,11 +124,11 @@ Complete **Lost to the Ages** during mainland Dawnguard travel or immediately af
 
 The **Aetherial Crown** is the most generally useful reward because it permits two active Standing Stone effects, but the achievement only requires finishing the quest.
 
-Expected gain during this phase: **6 achievements**. **Soul Tear** is prepared here and completed in Phase 8 after the late `Dragon Rising` gateway.
+Expected gain remaining during this phase: **4 achievements**. **Soul Tear** is prepared here and completed in Phase 8 after the late `Dragon Rising` gateway.
 
 ## Phase 3: Companions And Werewolf Mastered
 
-After `Vampire Mastered` has unlocked, join/continue the Companions and let lycanthropy replace vampirism.
+After the remaining Dawnguard objectives are complete and **Auriel's Bow** has unlocked, join/continue the Companions and let lycanthropy replace vampirism. **Vampire Mastered** is already complete.
 
 1. Reach **The Silver Hand** and accept beast blood to unlock **Blood Oath**.
 2. Continue through **Glory of the Dead**.
@@ -293,7 +293,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 
 | Phase | Unlocks |
 |---|---:|
-| Dawnguard / Vampire | 5 |
+| Dawnguard / Vampire | 4 |
 | Companions / Werewolf | 3 |
 | Oblivion Walker | 1 |
 | Civil War | 3 |
@@ -302,7 +302,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **41** |
+| **Total remaining** | **40** |
 
 ## References
 

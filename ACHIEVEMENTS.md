@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **34 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **35 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -75,11 +75,11 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [ ] **Soul Tear** — Learn all three words of Soul Tear
 - [ ] **Auriel's Bow** — Use the special power of Auriel's Bow
 - [ ] **Werewolf Mastered** — Acquire 11 werewolf perks
-- [ ] **Vampire Mastered** — Acquire 11 vampire perks
+- [x] **Vampire Mastered** — Acquire 11 vampire perks ([evidence](evidence/vampire_mastered.png))
 - [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
 
-Current phase. Escort Serana to Castle Volkihar, accept Lord Harkon's Vampire Lord form during **Bloodline**, and complete **Vampire Mastered** before starting the Companions/werewolf phase.
+Current phase. Continue the Volkihar-side Dawnguard storyline; keep Serana a vampire until **Auriel's Bow** is complete, then proceed to Companions/werewolf work.
 
 ## Hearthfire
 
