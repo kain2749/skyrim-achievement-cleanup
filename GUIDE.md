@@ -39,7 +39,7 @@ Console commands do not generally prevent PC Steam achievements from unlocking, 
 |---|---|---|
 | Completed | College route | **The Eye of Magnus** |
 | 2 | Dawnguard as a Vampire Lord | **Beyond Death**, **Kindred Judgement**, **Auriel's Bow**, **Lost to the Ages**; prepare **Soul Tear** |
-| 3 | Companions and permanent werewolf state | **Blood Oath**, **Glory of the Dead**, **Werewolf Mastered** |
+| 3 | Companions and optional final werewolf state | **Blood Oath**, **Glory of the Dead** |
 | 4 | Daedric artifact cleanup | **Oblivion Walker** |
 | 5 | Civil War before late main-quest diplomacy | **Taking Sides**, **War Hero**, **Hero of Skyrim** |
 | 6 | Hearthfire construction | **Proud Parent**, **Architect**, **Land Baron**, **Master Architect** |
@@ -56,15 +56,16 @@ No further College achievement work remains.
 
 ## Phase 2: Dawnguard And Vampire Mastered
 
-Finish this phase before the Companions so the run can end permanently as a werewolf. **Vampire Mastered** is complete, but retain the vampire-side Dawnguard setup until **Auriel's Bow** is complete.
+Finish this phase before the remaining Companions quest achievements. **Vampire Mastered** and **Werewolf Mastered** are complete, but the Volkihar-side Dawnguard setup still needs to be preserved until **Auriel's Bow** is complete.
 
 ### Immediate next steps
 
-Completed: **Awakening** ([evidence](evidence/awakening.png)) and **Vampire Mastered** ([evidence](evidence/vampire_mastered.png)).
+Completed: **Awakening** ([evidence](evidence/awakening.png)), **Vampire Mastered** ([evidence](evidence/vampire_mastered.png)), and **Werewolf Mastered** ([evidence](evidence/werewolf_mastered.png)).
 
-1. Continue the Volkihar-side storyline toward **Beyond Death** and **Kindred Judgement**.
-2. Do not cure Serana before using **Auriel's Bow** with Bloodcursed Elven Arrows to unlock its achievement.
-3. After the remaining Dawnguard objectives are complete, let Companions lycanthropy replace vampirism.
+1. If becoming a werewolf has blocked dialogue with Clan Volkihar, accept Vampire Lord form again so the vampire-side storyline can continue.
+2. Continue toward **Beyond Death** and **Kindred Judgement**.
+3. Do not cure Serana before using **Auriel's Bow** with Bloodcursed Elven Arrows to unlock its achievement.
+4. After the remaining Dawnguard objectives are complete, finish the Companions quest achievements; restore werewolf form afterward only if desired.
 
 ### Main Dawnguard path
 
@@ -126,35 +127,31 @@ The **Aetherial Crown** is the most generally useful reward because it permits t
 
 Expected gain remaining during this phase: **4 achievements**. **Soul Tear** is prepared here and completed in Phase 8 after the late `Dragon Rising` gateway.
 
-## Phase 3: Companions And Werewolf Mastered
+## Phase 3: Companions
 
-After the remaining Dawnguard objectives are complete and **Auriel's Bow** has unlocked, join/continue the Companions and let lycanthropy replace vampirism. **Vampire Mastered** is already complete.
+After the remaining Dawnguard objectives are complete and **Auriel's Bow** has unlocked, join/continue the Companions. **Werewolf Mastered** is already complete; only the quest achievements remain in this phase.
 
 1. Reach **The Silver Hand** and accept beast blood to unlock **Blood Oath**.
 2. Continue through **Glory of the Dead**.
-3. Do not cure your own lycanthropy.
-4. Acquire all 11 werewolf perks for **Werewolf Mastered**.
+3. Retain or restore lycanthropy only if you still want the final character state to be werewolf.
 
-### Efficient werewolf grind
+### Werewolf Mastered - Complete
 
-- Werewolf perk progress requires feeding; the full tree requires **165 feedings**.
-- You may kill humanoid enemies normally first, then transform and feed on their corpses. This is safer and faster than clearing every camp in beast form.
-- Prioritize the path to **Savage Feeding** so qualifying animal corpses can also contribute.
-- Use `tgm`, fast travel, and short bandit/foresworn camp loops.
+Confirmed complete by screenshot evidence. No further werewolf perk grinding is required.
 
 ### Pull one Daedric artifact forward
 
-Once you are a werewolf, complete **Ill Met by Moonlight** for Hircine. Take **Ring of Hircine** as a valid Daedric artifact; its extra transformations are also useful during the werewolf perk grind.
+Complete **Ill Met by Moonlight** for Hircine when returning to Daedric artifact work. Take **Ring of Hircine** as a valid Daedric artifact.
 
 To receive the ring normally, spare Sinding and help him kill the hunters, then accept Hircine's purified Ring of Hircine outside the grotto.
 
 At that point, recorded `Oblivion Walker` progress should move from `1 / 15` to `2 / 15`.
 
-Expected gain: **3 achievements**, plus one useful `Oblivion Walker` artifact.
+Expected gain remaining: **2 achievements**, plus one useful `Oblivion Walker` artifact.
 
 ## Phase 4: Oblivion Walker
 
-Resume the Daedric artifact route after the transformation work. You already have the **Mace of Molag Bal**, and the recommended werewolf grind adds the **Ring of Hircine**.
+Resume the Daedric artifact route after the faction work. You already have the **Mace of Molag Bal**; obtain the **Ring of Hircine** during this route if it is not already secured.
 
 Use [guides/oblivion_walker.md](guides/oblivion_walker.md) as the decision checklist. The required precautions are:
 
@@ -294,7 +291,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Phase | Unlocks |
 |---|---:|
 | Dawnguard / Vampire | 4 |
-| Companions / Werewolf | 3 |
+| Companions / Werewolf | 2 |
 | Oblivion Walker | 1 |
 | Civil War | 3 |
 | Hearthfire | 4 |
@@ -302,7 +299,7 @@ Expected gain: **10 achievements**, reduced by any dragon/shout counter achievem
 | Late `Dragon Rising` gateway / Soul Tear | 1 |
 | Dragonborn | 10 |
 | Remaining base main quest finale / dragon cleanup | 10 |
-| **Total remaining** | **40** |
+| **Total remaining** | **39** |
 
 ## References
 

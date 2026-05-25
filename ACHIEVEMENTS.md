@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **35 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **36 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -16,7 +16,7 @@ Completed achievement total: **35 / 75**. Update this list when an achievement u
 - [ ] **Blood Oath** — Become a member of the Circle
 - [ ] **Glory of the Dead** — Complete "Glory of the Dead"
 
-Planned after Dawnguard so the run can end in werewolf form and pair this questline with **Werewolf Mastered**.
+Still pending after the current Dawnguard work; **Werewolf Mastered** is already complete separately.
 
 ## Base / College
 
@@ -74,12 +74,12 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 - [ ] **Lost to the Ages** — Complete "Lost to the Ages"
 - [ ] **Soul Tear** — Learn all three words of Soul Tear
 - [ ] **Auriel's Bow** — Use the special power of Auriel's Bow
-- [ ] **Werewolf Mastered** — Acquire 11 werewolf perks
+- [x] **Werewolf Mastered** — Acquire 11 werewolf perks ([evidence](evidence/werewolf_mastered.png))
 - [x] **Vampire Mastered** — Acquire 11 vampire perks ([evidence](evidence/vampire_mastered.png))
 - [x] **A New You** — Change your face
 - [ ] **Legend** — Defeat a Legendary Dragon
 
-Current phase. Continue the Volkihar-side Dawnguard storyline; keep Serana a vampire until **Auriel's Bow** is complete, then proceed to Companions/werewolf work.
+Current phase. Continue the Volkihar-side Dawnguard storyline; if lycanthropy blocks Volkihar dialogue, become a Vampire Lord again to finish Dawnguard. Keep Serana a vampire until **Auriel's Bow** is complete.
 
 ## Hearthfire
 

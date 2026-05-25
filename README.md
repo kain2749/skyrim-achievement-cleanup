@@ -41,32 +41,33 @@ For the Skyrim task itself, the repository should record achievement progress an
 
 ## Current Route
 
-- Completed: **35 / 75**
+- Completed: **36 / 75**
 - Current progress: College of Winterhold achievements complete, including **The Eye of Magnus** ([evidence](evidence/the_eye_of_magnus.png))
 - Incidental cleanup complete: **Standing Stones** and **Explorer** ([evidence](evidence/explorer_and_standing_stones.png)); **Delver** ([evidence](evidence/delver.png)); **Hero of the People** ([evidence](evidence/hero_of_the_people.png))
 - Current phase: **Dawnguard / Vampire Lord**, targeting:
-  - Next action: continue the Volkihar-side storyline toward **Beyond Death**; do not cure Serana before completing **Auriel's Bow**
+  - Next action: continue the Volkihar-side storyline toward **Beyond Death**; if current lycanthropy blocks clan progression, accept Vampire Lord form again to finish Dawnguard
   - [x] **Awakening** ([evidence](evidence/awakening.png))
   - [ ] **Beyond Death** and **Kindred Judgement**
   - [x] **Vampire Mastered** ([evidence](evidence/vampire_mastered.png))
+  - [x] **Werewolf Mastered** ([evidence](evidence/werewolf_mastered.png))
   - Prepare **Soul Tear** during `Beyond Death`; complete it after the late **Dragon Rising** gateway enables shout use
 - Planned after Dawnguard: **Companions / Werewolf**, targeting:
   - [ ] **Blood Oath** and **Glory of the Dead**
-  - [ ] **Werewolf Mastered** - acquire 11 werewolf perks and remain a werewolf afterward
+  - **Werewolf Mastered** is already complete; regain lycanthropy later only if needed for the intended final character state
 - Final storyline: the remaining base main quest, after the other faction and DLC cleanup.
 - Paused objective: **Oblivion Walker**, currently `1 / 15` valid artifacts with the **Mace of Molag Bal** secured.
 
-**The Eye of Magnus** has been confirmed by screenshot evidence; begin the Dawnguard route while preserving the planned vampire-to-werewolf order.
+**Vampire Mastered** and **Werewolf Mastered** have been confirmed by screenshot evidence; continue Dawnguard before returning to the remaining Companions quest achievements.
 
 ## Transformation Order
 
-Finish vampire-related achievement work before becoming a werewolf:
+Current transformation handling:
 
 1. College of Winterhold achievements are complete.
-2. Complete the remaining Dawnguard achievements, keeping Serana a vampire until **Auriel's Bow** is complete; **Vampire Mastered** is already done.
-3. Start the Companions, obtain lycanthropy through **Blood Oath**, finish **Glory of the Dead** and **Werewolf Mastered**, and remain a werewolf.
+2. Complete the remaining Dawnguard achievements, keeping Serana a vampire until **Auriel's Bow** is complete; **Vampire Mastered** and **Werewolf Mastered** are already done.
+3. Complete **Blood Oath** and **Glory of the Dead** through the Companions; regain lycanthropy after Dawnguard only if needed for the intended final character state.
 
-Why: changing from vampire to werewolf clears vampirism and avoids carrying the sunlight penalties afterward. Permanent lycanthropy prevents Rested/Well Rested sleep bonuses, but that is not an achievement blocker. Keeping this order also avoids relying on Aela's limited lycanthropy restoration after switching forms.
+Why: changing from vampire to werewolf clears vampirism. If that now prevents Volkihar progression, returning to Vampire Lord form is required to finish the chosen Dawnguard side. Permanent lycanthropy remains optional after those remaining unlocks are complete.
 
 The main quest can remain the final major storyline, with one late exception: complete through **Dragon Rising** before dragon/shout-dependent cleanup. That unlocks normal dragon souls and shout use needed for **Soul Tear**, Dragonborn dragon riding, **Dragon Hunter**, **Thu'um Master**, and **Legend**. **The Way of the Voice** may enter the journal at that point; leave it incomplete until the final storyline pass.
 
