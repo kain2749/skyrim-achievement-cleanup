@@ -1,6 +1,6 @@
 # Achievement Checklist
 
-Completed achievement total: **37 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
+Completed achievement total: **38 / 75**. Update this list when an achievement unlocks; ordinary quest steps do not require documentation.
 
 ## Base / Main Quest
 
@@ -40,7 +40,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 
 - [ ] **Sideways** — Complete 10 side quests
 - [x] **Hero of the People** — Complete 50 Misc Objectives ([evidence](evidence/hero_of_the_people.png))
-- [ ] **Hard Worker** — Chop wood, mine ore, and cook food
+- [x] **Hard Worker** — Chop wood, mine ore, and cook food ([evidence](evidence/hard_worker.png))
 - [x] **Thief** — Pick 50 locks and 50 pockets
 - [x] **Snake Tongue** — Successfully persuade, bribe, and intimidate
 - [x] **Standing Stones** — Find 13 Standing Stones ([evidence](evidence/explorer_and_standing_stones.png))
