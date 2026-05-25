@@ -38,7 +38,7 @@ Current progress: College of Winterhold achievements complete; proceed to Dawngu
 
 ## Base / Misc
 
-- [ ] **Sideways** — Complete 10 side quests
+- [ ] **Sideways** — Complete 10 side quests ([UESP qualifying quest list](https://en.uesp.net/wiki/Skyrim:Side_Quests))
 - [x] **Hero of the People** — Complete 50 Misc Objectives ([evidence](evidence/hero_of_the_people.png))
 - [x] **Hard Worker** — Chop wood, mine ore, and cook food ([evidence](evidence/hard_worker.png))
 - [x] **Thief** — Pick 50 locks and 50 pockets
