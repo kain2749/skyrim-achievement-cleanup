@@ -78,6 +78,7 @@ The main quest can remain the final major storyline, with one late exception: co
 - [Oblivion Walker Guide](guides/oblivion_walker.md) - missable artifact reward choices to preserve when returning to that objective
 - [Console Policy](guides/console_policy.md) - commands that are acceptable shortcuts versus commands likely to damage achievement state
 - [Observed Gameplay Exploits](guides/observed_exploits.md) - evidence-backed useful quirks found during the run
+- [Thieves Guild Fence Locations](guides/thieves_guild_fences.md) - available stolen-goods buyers and where to find them
 
 ## Working Rule
 
